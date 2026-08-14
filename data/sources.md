@@ -1,52 +1,39 @@
 # Corpus sources — securities lending knowledge base
 
-These public documents make up the RAG knowledge base for this project.
-The PDFs themselves are **not** committed to the repo (see `.gitignore`);
-run `python scripts/download_corpus.py` to fetch them into `data/raw/`.
+Public documents making up the RAG knowledge base for this project.
+Files live in `data/raw/` (gitignored — not committed, since they're
+large and not ours to redistribute). Some are scanned PDFs with no
+text layer; `scripts/inspect_corpus.py` detects those automatically
+and OCRs them into a matching `.txt` file alongside the original.
 
 All documents are published by regulators or industry bodies and are
-publicly available. They are used here for a personal, non-commercial
-learning project. Attribution remains with the original publisher — check
-each source's terms before any redistribution or commercial use.
-
----
+publicly available. Used here for a personal, non-commercial learning
+project. Attribution remains with the original publisher.
 
 ## India — SEBI & exchanges
 
-- **sebi_slb_faqs.pdf** — FAQ on the Securities Lending & Borrowing (SLB)
-  scheme: tenure, margins, T+1 settlement, tax treatment. *(Cleanest starter
-  document — plain Q&A, chunks well.)*
-  https://ncfe.org.in/wp-content/uploads/2023/12/FAQs-for-Securities-lending-and-borrowing-SLB-scheme.pdf
-
-- **sebi_slb_scheme.pdf** — The SLB scheme framework: role of the approved
-  intermediary, lender, and borrower; title vs. beneficial-interest rules.
-  https://www.sebi.gov.in/sebi_data/commondocs/cirsmd15a4_p.pdf
-
-- **sebi_shortselling_slb_discussion.pdf** — Discussion paper on short
-  selling and SLB; the market-design rationale.
-  https://www.sebi.gov.in/sebi_data/commondocs/rep40_p.pdf
-
-- **bse_slb_framework.pdf** — Broad operational framework for SLB:
-  agreements, risk management, settlement.
-  https://www.bseindia.com/downloads1/SEBICircular.pdf
+- **SEBI SL.pdf** — SEBI securities lending framework/circular. *(Scanned — OCR'd to `SEBI_SL.txt`.)*
+- **AutomatedSL.pdf** — Automated securities lending mechanics.
 
 ## Industry — ISLA
 
-- **isla_working_example.pdf** — Worked example of a securities loan
-  including collateral settlement in the UK CREST system (Delivery by Value).
-  https://www.esma.europa.eu/sites/default/files/ISLA_1.pdf
+- **ISLA.pdf** (`isla_working_example`) — Worked example of a securities loan, including CREST/DBV collateral settlement.
+- **isla_sl_basics.pdf** — ISLA's securities lending fundamentals/basics guide.
+- **SLBH.pdf** — Securities Lending & Borrowing Handbook-style reference. *(Scanned — OCR'd to `SLBH.txt`.)*
+- **SL Transactions.pdf** — Detailed transaction-level mechanics (125 pages).
 
-- ISLA Securities Lending & Borrowing Hub — *web pages*, useful later for
-  the glossary and FAQ (scrape as a separate ingestion source):
-  https://www.islaemea.org/sl-hub/
+## Financing & standing facilities
 
-## Global regulator — FSB
+- **Securities Lending and Corporate Financing.pdf** — SL in the context of corporate financing.
+- **...Securities-Lending-and-Related-Standing-Facilities.pdf** — Central-bank-style working paper on SL and standing facilities.
 
-- **fsb_market_overview.pdf** — Market overview and financial-stability
-  issues in securities lending and repo; participants, margins/haircuts,
-  collateral eligibility across jurisdictions.
-  https://www.fsb.org/wp-content/uploads/r_120427.pdf
+## Broad reference
 
-- **fsb_shadow_banking_recommendations.pdf** — Policy recommendations,
-  including the haircuts framework for non-centrally-cleared SFTs.
-  https://www.fsb.org/uploads/r_130829b.pdf
+- **slm_fullpublication.pdf** — Large (62-page) full publication on securities lending markets. *(Scanned — OCR'd to `slm_fullpublication.txt`.)*
+
+---
+
+**To reproduce this corpus:** these were downloaded manually from
+regulator/industry sites. See individual filenames above for what
+to search for. `scripts/inspect_corpus.py` validates and OCRs
+whatever's placed in `data/raw/`, regardless of source.
