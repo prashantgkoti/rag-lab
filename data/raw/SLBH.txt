@@ -1,0 +1,84 @@
+ISLA
+
+Securities lending and borrowing (SLB) plays a vitally important role in the smooth functioning of today’s global capital markets. The size of
+the global securities lending industry (securities available for loan) is estimated to be in the region of €39 trillion as at the end of 2024.
+
+Through the ISLA Securities Lending & Borrowing Hub, you'll gain an understanding of what securities lending and borrowing is, who the
+main participants are across the end-to-end value chain, as well as the main benefits to the wider capital markets ecosystem. The Hub also
+covers a range of related topics and frequently asked questions, including how risks arising from the activity are managed, as well deep
+diving into the regulatory framework in which the market operates. In this section, you will also find useful links to related content and
+further resources, including guides and a comprehensive glossary of terms.
+
+What is Securities Lending & Borrowing & Who are the Key
+Market Participants?
+
+Securities lending and borrowing is where an investor temporarily lends securities to a borrower, in return for a fee. It is one of four
+different securities financing transaction (SFT) types, along with repurchase transactions (repos), buy-sell back transactions and margin or
+
+commodity lending.
+
+Securities that are lent can be in the form of bonds issued by governments or corporates, as well as equities. In addition to the fee, the
+borrower provides the lender with collateral in the form of cash or other securities. This protects the lender from the risk of potential loss if
+the borrower becomes insolvent and is unable to return the lender's securities. The value of the collateral provided by the borrower is
+normally greater than the value of the borrowed securities, providing additional protection for the lender. To further protect both parties
+from market fluctuations during the life of the transaction, securities and collateral on loan are revalued on a daily basis and adjusted if
+needed. At the end of the transaction the borrower and lender return their respective securities and collateral to one another.
+ISLA
+
+rs
+
+This activity is often usually conducted by a lending agent, for example a custodial bank, a third-party lender or an in-house lending affiliate
+acting on behalf of the lender, often referred to as a beneficial owner. This is known as the supply-side.
+
+Agents are frequently used by lenders as securities lending tends to be a high volume and short term discretionary activity and does not
+form part of the main activity of institutional investors. However, some lenders may choose to lend directly (i.e., not appoint an agent)
+whilst others may choose to utilise multiple providers, lend assets through both a custodian and a third-party agent, or a combination of the
+above. Borrowers and end users of the lent securities are known as being on the demand-side.
+
+Borrowers are typically large financial institutions such as investment banks and broker dealers. These institutions borrow securities to
+support their own proprietary trading, market making and to facilitate short coverage for their clients such as alternative investment
+managers and hedge funds, who are referred to as underlying borrowers.
+
+Pension Funds Custodial Banks
+
+Mutual Funds Direct Lenders
+Insurance Third Party Lenders
+Companies
+
+Sovereign
+Wealth Funds
+
+Central Banks
+
+Retail Investors
+
+For a securities lender, it is an opportunity to generate additional low risk revenues from their long-term investments and use their long-term assets
+to raise liquidity when required (e.g., lending their securities to raise cash or government bonds for example as collateral).
+
+VvvVvVv aoa &
+si iti Collateral
+ecurities & Fees
+
+Vvvv a &
+ISLA
+
+A Q
+
+Banks
+
+Hedge Funds
+
+Broker-Dealers
+
+Alternative Investment Funds
+
+Proprietary
+Traders
+
+For a securities borrower, securities lending & borrowing provides a mechanism to cover short positions as a result of market making activity, raise
+eligible assets to meet regulatory ratios or collateral requirements and manage the funding of its balance sheet.
+ISLA
+ISLA
+ISLA
+ISLA
+ISLA

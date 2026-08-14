@@ -1,0 +1,2979 @@
+\
+An Introduction
+to Securities Lending
+
+a. by:
+
+Association of Corporate Treasupers
+British Bankers’ Association
+International Securities Lending Association
+London Investment Banking Association
+London Stock Exchange
+
+Securities Lending and Repo Committee
+
+Written by:
+Mark C. Faulkner, Managing Director, Spitalfields Advisors
+
+BRITISH BANKERS’ ASSOCIATION
+
+BA LIBA
+
+N INVESTMENT E IATION
+
+Kinks London
+
+ASSOCIATION V2: STOCK EXCHANGE
+
+production & Copyright
+
+‘An Introduction to Securities Lending’ was commissioned by the Securities Lending and Repo Committee, the
+International Securities Lending Association, the London Stock Exchange, the London Investment Banking
+Association, the British Bankers’ Association and the Association of Corporate Treasurers and was first pub-
+lished in 2004. The author is Mark C. Faulkner, Managing Director of Spitalfields Advisors Limited.
+
+It is the intention of the commissioning parties and the author that the publication be freely available and as
+widely distributed as possible. With this objective in mind the copyright holder (Mark C. Faulkner) gives his
+permission for all or parts of the publication to be reproduced, stored in a retrieval system, transmitted in
+any form or by any means (electronic, mechanical, photocopying, recording or otherwise) without his prior
+permission.
+
+The granting of this permission is only for the English language and is conditional upon the insertion of the
+following accreditation.
+
+Source: ‘An Introduction to Securities Lending’ © Mark C. Faulkner.
+The copyright holder reserves the right to pursue any organisation not accrediting as above.
+
+No one requiring a translation of all or parts of the publication can do so without the prior permission of the
+copyright holder.
+
+The views expressed in this booklet are those of the author. Every care has been taken to ensure that the
+contents of the booklet are accurate. However, neither the author, nor the commissioning bodies nor the pub-
+lishers can accept any responsibility for any errors or omissions. The publishers or author can accept no
+responsibility for loss occasioned to any person acting or refraining from action as a result of any material in
+this publication.
+
+About the Author
+
+Mark Faulkner is Managing Director and co-founder of Spitalfields Advisors Limited. The company is
+an independent specialist consultancy firm and its focus is upon the provision of consultancy serv-
+ices to institutions active, or considering becoming active in the securities finance markets, partic-
+ularly beneficial owners. Spitalfields Advisors assists institutions embarking on securities lending
+reviews or RFP processes. The company also reviews existing programmes and suggests opportu-
+nities for improvement.
+
+SPITALFIELDS Mark is also the Chief Executive Officer of Securities Finance Systems Limited. The company pro-
+ADVISORS vides clients with insights into comparative risk and performance measurement using proprietary
+riskexplorer and performanceexplorer services. Securities Finance Systems also conducts a wide
+
+range of quantitative research projects and benchmarking exercises on behalf of customers.
+
+After graduating from the London School of Economics, Mark Faulkner spent the majority of his career spe-
+cialising in International Securities Finance. Since 1987, he has held management responsibility at L.M.
+(Moneybrokers) Ltd., Goldman Sachs, Lehman Brothers and more recently at Securities Finance International
+Limited.
+
+Whilst occupying these different posts he has gained experience as a lender, borrower, conduit borrower and
+prime broker. During his career he has worked closely with the UK Inland Revenue and has represented firms
+at the Securities Lending and Repo Committee and the London Stock Exchange’s securities lending commit-
+tees. Being an independent advisor since 1995 has provided Mark with a unique insight into the operation of
+the securities financing market.
+
+Mark lives with Jude and their son Archie in Spitalfields, London.
+
+To download a free copy of this book or contact Mark about it please visit: www.spitalfieldsadvisors.com
+Table of contents
+
+Foreword 2... . ee eee eee ee ee eee eee eee eee e eee e ee eee 5)
+Acknowledgements ....... 0.00 cece cece cece ce cececececeseces 7)
+Executive Summary ........ 0. cece cece eee ee eee teen ee eeeee 9)
+Chapter 1 What is securities lending? ............ 0. cece cece eeeee ®
+Chapter 2 Lenders and intermediaries ............ 000s eee eeeeeees ©
+Chapter 3 The borrowing motivation ........... 0... cece eee eee eee (25)
+Chapter 4 Market mechanics ........... 0. cece ee eee eee erence @
+Chapter 5 Risks, regulation and market oversight .............02000% 35)
+Chapter 6 Frequently asked questions ............ 0. eee e eee eens @
+Appendix 1 A short history of securities lending ...............0000- @
+Appendix 2 Terms of Reference of the SLRC ............ ee eee eeee @
+Appendix 3 Glossary ......... ce eee eee ce eee ce eee ee eee ee eees 53)
+
+Reference SOUrCES 2.0... ccc ce cee cece teen tenes 59)
+Forewo
+
+Securities lending provides liquidity to the equity, bond and money markets, placing it at the heart of today’s
+financial system. The increase in liquidity reduces the cost of trading, thereby increasing market efficiency and
+benefiting all. Securities lending markets allow market participants to sell securities that they do not own in
+the confidence that they can be borrowed prior to settlement. They are also used for financing, through the
+lending of securities against cash, forming an important part of the money markets. The ability to lend and
+borrow securities freely underpins the services that securities dealers offer their customers and the trading
+strategies of dealers, hedge funds and other asset managers. On the lending side, securities lending forms a
+growing part of the revenue of institutional investors, custodian banks and the prime brokerage arms of
+investment banks.
+
+This publication aims to describe these markets, with an emphasis towards the United Kingdom, although UK
+markets are highly international in terms of both participation and securities traded. The intended audience
+is not market practitioners but others with some interest in securities lending, including trustees of pension
+or other funds that already lend their securities or might consider doing so, managers of companies whose
+securities are lent, financial journalists, the authorities and other interested parties.
+
+The idea of a publication arose a year ago in discussions in the Securities Lending and Repo Committee, which
+brings together market practitioners, the UK authorities and infrastructure providers, with the Bank of England
+chairing and providing administrative support. At a time of falling share prices, some commentators were
+drawing links with securities lending and short selling, often revealing some misunderstanding of how the
+markets actually worked. This is hardly surprising. Securities lending markets are complex, with multiple lay-
+ers of intermediaries, transaction terms and pricing that can be opaque to those not directly involved in it.
+Confusing terminology and market jargon does not help (one reason for the glossary). There seemed to be
+no authoritative publication, written by market practitioners, which described and explained the modern mar-
+kets for a non-expert. The sponsoring organisations, representing the different players in the market, worked
+together to fill this gap. They set out to produce an accurate and accessible description of the markets and
+how they work, who is involved and why.
+
+The Securities Lending and Repo Committee welcome this publication. The National Association of Pension
+Funds and the Association of British Insurers, as well as the sponsoring organisations have also welcomed it.
+| would like to thank all those involved in its production.
+
+David Rule
+Chairman, Securities Lending and Repo Committee
+Acknowledgements
+
+Whilst researching and writing this book the author received assistance from the following individuals:
+
+Authorship Committee:
+
+David Rule, Bank of England
+
+Simon Hills, British Bankers’ Association
+
+Dagmar Banton, London Stock Exchange
+
+John Serocold, London Investment Banking Association
+
+Andrew Clayton, International Securities Lending Association
+
+Other contributors:
+
+Joyce Martindale, Head of Performance and Risk, Railway Pension Investments Ltd
+Susan Adeane, Company Secretary, Railway Pension Investments Ltd
+
+Habib Motani, Partner, Clifford Chance
+
+Niki Natarajan, Editor, InvestHedge
+
+Andrew Barrie, Director, Barrie & Hibbert
+
+Jackie Davis, Publications Manager, British Bankers’ Association
+
+Dr. Bill Cuthbert, Managing Director, Spitalfields Advisors
+
+He would like to express his gratitude for their assistance, encouragement and support.
+Executive Summary
+
+Securities lending — the temporary transfer of securities on a collateralised basis — is a major and growing
+activity providing significant benefits for issuers, investors and traders alike. These are likely to include
+improved market liquidity, more efficient settlement, tighter dealer prices and perhaps a reduction in the cost
+of capital.
+
+The scale of securities lending globally is difficult to estimate, as it is an ‘over the counter’ rather than an
+exchange-traded market. However, it is safe to say that the balance of securities on loan globally exceeds
+£1 trillion.
+
+What is securities lending?
+
+Securities lending describes the market practice by which, for a fee, securities are transferred temporarily from
+one party, the lender, to another, the borrower; the borrower is obliged to return them either on demand or
+at the end of any agreed term.
+
+However, the word ‘lending’ is in some ways misleading. In law the transaction is in fact an absolute trans-
+fer of title (sale) against an undertaking to return equivalent securities. Usually the borrower will collateralise
+the transaction with cash or other securities of equal or greater value than the lent securities in order to pro-
+tect the lender against counterpart credit risk.
+
+Some important consequences arise from the nature of securities lending transactions:
+
+¢ Absolute title over both lent and collateral securities passes between the parties, therefore these
+securities can be sold outright and ‘on lent’. Both practices are commonplace and an intrinsic part
+of the functioning of the market.
+
+* Once securities have been acquired, the new owner of them has certain rights. For example, it has
+the right to sell or lend them on to another buyer and, vote in AGMs.
+
+© The borrower is entitled to the economic benefits of owning the lent securities (e.g. dividends) but
+the agreement with the lender will oblige it to make (‘manufacture’) equivalent payments back to
+the lender.
+
+¢ A lender of equities no longer owns them and has no entitlement to vote. But it is still exposed to
+price movements on them since the borrower can return them at a pre-agreed price. Lenders
+typically reserve the right to recall equivalent securities from the borrower and will exercise this
+option if they wish to vote. However, borrowing securities for the specific purpose of influencing a
+shareholder vote is not regarded as acceptable market practice.
+
+Different types of securities lending transacti
+
+Most securities loans are collateralised, either with other securities or with cash deposits. Where lenders take
+securities as collateral, they are paid a fee by the borrower. By contrast, where they are given cash as collat-
+eral, they pay the borrower interest but at a rate (the rebate rate) that is lower than market rates, so that
+they can reinvest the cash and make a return. Pricing is negotiated between the parties and would typically
+take into account factors such as supply and demand for the particular securities, collateral flexibility, the size
+of any manufactured dividend and the likelihood of the lender recalling the securities early. For example, fees
+for borrowing UK FTSE 100 equities against securities collateral ranged from 6-200 basis points per annum
+and fees for borrowing conventional UK government bonds from 6-40 basis points per annum towards the
+end of 2003.
+
+As well as securities lending, sale and repurchase (repo) and buy-sell back transactions are used for the tem-
+porary transfer of securities against cash. In general, securities lending is more likely to be motivated by the
+desire to borrow specific securities and repo, and buy-sell backs by the desire to borrow cash — but this
+boundary is fuzzy. For example, reinvestment of cash collateral has been an integral part of the securities lend-
+ing business for many years, particularly in the United States, with reinvestment opportunities often driving
+the underlying securities lending transactions.
+
+Lenders and intermediaries
+
+The supply of securities into the lending market comes mainly from the portfolios of beneficial owners, such
+as pension and other funds, and insurance companies. Underlying demand to borrow securities begins large-
+ly with the trading activities of dealers and hedge funds.
+
+In the middle are a number of intermediaries. The importance of intermediaries in the market partly reflects
+the fact that securities lending is a secondary activity for many of the beneficial owners and underlying bor-
+rowers. Intermediaries provide valuable services, such as credit enhancement and the provision of liquidity,
+by being willing to borrow securities at call while lending them for term. They also benefit from economies of
+scale, including the significant investment in technology required to run a modern operation.
+Intermediaries include custodian banks and asset managers lending securities as agents on behalf of benefi-
+cial owners, alongside the other services provided to these clients. Some specialist securities lending agents
+have also emerged. Agents agree to split securities lending revenues with lenders and may offer indemnities
+against certain risks, such as borrower default.
+
+Another category of intermediary is dealers trading as principals. Dealers intermediate between lenders and
+borrowers, but they also use the market to finance their own wider securities trading activities. They may seek
+returns by taking collateral, counterpart credit or liquidity risk, for example, by lending securities to a client
+for a period while borrowing them on an open basis with a risk of early recall by the lender. Through their
+prime brokerage operations, they also meet the needs of hedge funds and the borrowing of securities to
+finance their positions has grown rapidly.
+
+For beneficial owners, there are a number of different possible routes into the market. These include using
+an agent (custodian bank, asset manager or specialist) to manage a lending programme, auctioning a port-
+folio to borrowers directly, selecting one principal borrower, establishing an ‘in-house’ operation and lending
+directly, or some combination of these strategies.
+
+The borrowi ivatio
+
+The most common reason to borrow securities is to cover a short position — using the borrowed securities to
+settle an outright sale. But this is rarely a simple speculative bet that the value of a security will fall so that
+the borrower can buy it more cheaply at the maturity of the loan. More commonly, the short position is part
+of a larger trading strategy, typically designed to profit from perceived pricing discrepancies between related
+securities. For example:
+
+¢ Convertible bond arbitrage: buying a convertible bond and simultaneously selling the underlying
+equity short.
+
+e ‘Pairs’ trading: seeking to identify two companies, with similar characteristics, whose equity
+securities are currently trading at a price relationship that is out of line with the historical trading
+range. The apparently undervalued security is bought, while the apparently overvalued security is
+sold short.
+
+¢ Merger arbitrage: for example, selling short the equities of a company making a takeover bid against
+a long position in those of the potential acquisition company.
+
+¢ Index arbitrage: selling short the constituent securities of an equity price index (e.g. FTSE 100)
+against a long position in the index future (e.g. FTSE 100 contract on LIFFE).
+
+Short positions also arise as a result of failed settlement (with some securities settlement systems arranging
+for automatic lending of securities to prevent chains of failed trades) and where dealers need to borrow secu-
+rities in order to fill customer buy orders in securities where they quote two-way prices.
+
+Not all securities lending is motivated by short selling. Financing drives many transactions — the lender is
+seeking to borrow cash against the lent securities, whether using repo, buy/sell backs or cash-collateralised
+securities lending.
+
+Another large class of transactions not involving a short comprises those motivated by lending in order to
+transfer ownership temporarily, an arrangement which can work to the advantage of both lender and borrower.
+For example:
+
+¢ Where a lender would be subject to withholding tax on dividends or interest but some potential
+borrowers are not. The borrower receives the dividend free of tax, and shares some of the benefit
+with the lender in the form of a larger fee or larger manufactured dividend.
+
+¢ Where an issuer offers shareholders the choice of receiving a dividend in cash or reinvesting it in
+additional securities (scrip) at a discount to the market price, but some funds (e.g. index trackers)
+are unable to take the more attractive scrip alternative because their holdings would become larger
+than permitted under investment guidelines. The borrower chooses the scrip dividend alternative
+and sells the securities in the market. Again, the return is shared with the lender through a larger
+fee or larger manufactured dividend.
+
+Trading and settlement
+
+The securities lending market is a hybrid between a relationship-based market and an open, traded market.
+Historically, transactions were negotiated by telephone but increasingly securities are broadcast as available
+at particular rates using email or other electronic platforms.
+
+Loans may be either for a specified term, or more commonly, open to recall, because lenders typically wish
+to preserve the flexibility for fund managers to be able to sell at any time.
+
+Settlement occurs on a shorter time frame than outright transactions, so that securities can be borrowed to
+cover a sale.
+In most settlement systems securities loans are settled as ‘free of payment’ deliveries and the collateral taken
+is settled quite separately, possibly in a different payment or settlement system, and maybe a different coun-
+try and time zone. This can give rise to ‘daylight exposure’, a period in which the lent securities have been
+delivered but the collateral securities have not yet been received. To avoid this exposure some lenders insist
+on pre-collateralisation, so transferring the exposure to the borrower.
+
+In the United Kingdom, CREST has specific settlement arrangements for stock lending transactions.
+
+UK Stamp Duty
+
+London Stock Exchange rules require lending arrangements in securities on which UK Stamp Duty/Stamp Duty
+Reserve Tax (SDRT) is chargeable to be reported to the Exchange. This enables firms to bring their borrowing
+and lending activity ‘on Exchange’ making them exempt from Stamp Duty/SDRT under Inland Revenue regula-
+tions. Non-Exchange member firms that conduct borrowing and lending activity through a member firm are
+also eligible for stock lending relief from Stamp Duty/SDRT.
+
+Companies Act 1985
+
+Firms that are engaged in equity stock borrowing or lending in the United Kingdom will need to comply, where
+appropriate, with the notification requirements applying to notifiable interest in shares as set out in Part VI
+of the Companies Act 1985.
+
+Transparency in the UK market
+CREST provides some time-delayed information on the values of securities financing transactions in the top
+350 UK equities. This information was first published in September 2003 and excludes intermediary activity
+
+where possible.
+
+Risks and risk management
+
+When taking cash as collateral. A \ender taking cash as collateral pays rebate interest to the securities bor-
+rower, so the cash must be reinvested at a higher rate in order to make any net return on the collateral aspect
+of the transaction. Expected returns can be increased by reinvesting in assets with more credit risk or longer
+maturity in relation to the likely term of the loan, with a risk of loss if market interest rates rise. Many of the
+large securities lending losses over the years have been associated with reinvestment of cash collateral.
+
+Transaction collateralised with other securities. Added to the risk of errors, systems failures and fraud that are
+always present in any market, problems can arise from the default of a borrower. Following a default the
+lender must sell its collateral in the market in order to raise the funds to replace the lent securities. It will
+lose money if the value of the collateral securities falls relative to that of the lent securities. Generally, the
+risk of loss is greater if it takes longer to close out these positions, if the collateral or lent securities are
+wrongly valued, if the markets for these securities are illiquid or if the market prices of the lent and collater-
+al securities do not tend to move together.
+
+UK regulation
+
+Any person conducting stock borrowing or lending business in the United Kingdom would generally be carry-
+ing on a regulated activity according to the terms of the Financial Services and Markets Act 2000 (Regulated
+Activities) Order 2001, and would therefore have to be authorised and supervised under that Act. The stock
+borrower or lender would, as an authorised person, be subject to the provisions of the Financial Services
+Authority (FSA) Handbook, in particular the Inter-Professional Conduct chapter; and they would also have to
+have regard to the market abuse provisions of the Financial Services and Markets Act 2000 and the related
+Code of Market Conduct issued by the FSA. The FSA Handbook contains rules, guidance, and evidential pro-
+visions relevant to the conduct of the firm in relation to the FSA’s High Level Standards.
+
+Stock Borrowing and Lending Code
+
+In addition to the prudential standards set by the FSA, market participants have drawn up a Stock Borrowing
+and Lending Code, which UK-based market participants observe as a matter of good practice. The Code does
+not in any way replace the FSA’s or other authorities’ regulatory requirements, nor is it intended to override
+the internal rules of settlement systems as regards borrowing or lending transactions.
+Securities Lending and Repo Committee
+
+The Securities Lending and Repo Committee (SLRC) produced the Code. The SLRC provides a forum in which
+structural developments in the stock lending and repo markets can be discussed, and recommendations made,
+by practitioners, infrastructure providers and authorities. Its terms of reference are shown in Appendix 2.
+
+Many questions are asked about the securities lending industry and Chapter 6 (Frequently asked questions)
+responds to many of these. They have been grouped into legal, dividends and coupons, collateral and risk
+management, operational and logistical, corporate governance and lending options for beneficial owners.
+
+Finally, every market has its own jargon, and securities lending is no exception. Appendix 3 is a glossary of
+terms.
+
+Securities lending is too significant to ignore. It touches the interests of securities investors, companies that
+issue securities, market intermediaries and the authorities. It is also too central to the efficient running of the
+modern financial markets to be misunderstood. This book is intended to provide an authoritative introduc-
+tion to the modern industry.
+Chapter 1 What is securities lending?
+
+Securities lending began as an informal practice among brokers who had insufficient share certificates to set-
+tle their sold bargains, commonly because their selling clients had mislaid their certificates or just not pro-
+vided them to the broker by the settlement date of the transaction. Once the broker had received the certifi-
+cates, they would be passed on to the lending broker. This business arrangement was subject to no formal
+agreement and there was no exchange of collateral.
+
+Securities lending is now an important and significant business that describes the market practice whereby
+securities are temporarily transferred by one party (the lender) to another (the borrower). The borrower is
+obliged to return the securities to the lender, either on demand, or at the end of any agreed term. For the
+period of the loan the lender is secured by acceptable assets delivered by the borrower to the lender as col-
+lateral.
+
+Under English law, absolute title to the securities ‘lent’ passes to the ‘borrower’, who is obliged to return
+‘equivalent securities’. Similarly the lender receives absolute title to the assets received as collateral from the
+borrower, and is obliged to return ‘equivalent collateral’.
+
+Securities lending today plays a major part in the efficient functioning of the securities markets worldwide.
+Yet it remains poorly understood by many of those outside the market.
+
+In some ways, the term ‘securities lending’ is misleading and factually incorrect. Under English law and in
+many other jurisdictions, the transaction commonly referred to as ‘securities lending’ is, in fact...
+
+‘a disposal (or sale) of securities linked to the subsequent reacquisition of equivalent securities by means of
+an agreement.’
+
+Such transactions are collateralised and the ‘rental fee’ charged, along with all other aspects of the transac-
+tion, are dealt with under the terms agreed between the parties. It is entirely possible and very commonplace
+that securities are borrowed and then sold or on-lent.
+
+There are some consequences arising from this clarification:
+
+1 Absolute title over both the securities on loan and the collateral received passes between the
+parties.
+
+2 The economic benefits associated with ownership — e.g. dividends, coupons etc. — are
+‘manufactured’ back to the lender, meaning that the borrower is entitled to these benefits as owner
+of the securities but is under a contractual obligation to make equivalent payments to the lender.
+
+3 Alender of equities surrenders its rights of ownership, e.g. voting. Should the lender wish to vote
+on securities on loan, it has the contractual right to recall equivalent securities from the borrower.
+
+4 In the United Kingdom appropriately documented securities lending transactions avoid two taxes:
+Stamp Duty Reserve Tax and Capital Gains Tax.
+
+Different types of securities loan transaction
+
+Most securities loans in today’s markets are made against collateral in order to protect the lender against the
+possible default of the borrower. This collateral can be cash, other securities or other assets.
+
+(a) Transactions collateralised with other securities or assets
+
+| Borrower +——— (_ Borrower
+
+x 4
+
+Reporting Reporting 7 / Collateral Collateral
+\
+
+/
+
+Tri Party Tri Party
+Agent Agent
+
+Loan Commences Loan Terminates
+Non-cash collateral would typically be drawn from the following collateral types:
+¢ Government Bonds
+
+© Issued by G7, Gio or Non-G7 governments
+* Corporate Bonds
+
+Various credit ratings
+* Convertible Bonds
+
+e Matched or unmatched to the securities being lent
+¢ Equities
+
+© Of specified indices
+eLetters of Credit
+
+e From banks of a specified credit quality
+* Certificates of Deposit
+
+¢ Drawn on institutions of a specified credit quality
+© Delivery By Value (‘DBVs’)'
+
+* Concentrated or Unconcentrated
+
+° Of a certain asset class
+e Warrants
+
+e Matched or unmatched to the securities being lent
+¢ Other money market instruments
+
+The eligible collateral will be agreed between the parties, as will other key factors including:
+
+¢ Notional Limits
+© The absolute value of any asset to be accepted as collateral
+
+¢ Initial margin
+e The margin required at the outset of a transaction
+
+*¢ Maintenance margin
+e The minimum margin level to be maintained throughout the transaction
+
+* Concentration limits
+e The maximum percentage of any issue to be acceptable, e.g. less than 5% of daily traded volume
+e The maximum percentage of collateral pool that can be taken against the same issuer, i.e. the
+cumulative effect where collateral in the form of letters of credit, CD, equity, bond and convertible
+may be issued by the same firm
+
+The example in the above diagram shows collateral being held by a Tri Party Agent. This specialist agent (typ-
+ically a large custodian bank or International Central Securities Depository) will receive only eligible collater-
+al from the borrower and hold it in a segregated account to the order of the lender. The Tri Party Agent will
+mark this collateral to market, with information distributed to both lender and borrower (in the diagram, dot-
+ted ‘Reporting’ lines). Typically the borrower pays a fee to the Tri Party Agent.
+
+There is debate within the industry as to whether lenders that are flexible in the range of non-cash collater-
+al they are willing to receive are rewarded with correspondingly higher fees. Some argue that they are, oth-
+ers claim that the fees remain largely static but that borrowers are more prepared to deal with a flexible lender
+and therefore balances and overall revenue rise.
+
+The agreement on a fee is reached between the parties and would typically take into account the following
+factors:
+
+¢ Demand and supply
+© The less of a security available, other things being equal, the higher the fee a lender can obtain
+
+¢ Collateral flexibility
+© The cost to a borrower of giving different types of collateral varies significantly, so that they might
+be more willing to pay a higher fee if the lender is more flexible
+
+¢ The size of the manufactured dividend required to compensate the lender for the post-tax dividend
+payment that it would have received had it not lent the security
+° Different lenders have varying tax liabilities on income from securities; the lower the manufactured
+dividend required by the lender, the higher the fee it can negotiate*
+
+¢ The term of a transaction
+° Securities lending transactions can be open to recalls or fixed for a specified term; there is much
+debate about whether there should be a premium paid or a discount for certainty. If a lender can
+guarantee a recall-free loan then a premium will be forthcoming. One of the attractions of repo and
+swaps is the transactional certainty on offer from a counterpart
+
+° Certainty
+e As Chapter 3 explains, there are trading and arbitrage opportunities, the profitability of which
+revolves around the making of specific decisions. If a lender can guarantee a certain course of
+action, this may mean it can negotiate a higher fee
+
+1 See glossary for an explanation of DBVs.
+2 See Chapter 3 for an explanation of how securities lending can be motivated by the different tax status of borrowers and lenders.
+Box 1: Cash flows on a securities loan against collateral other than cash
+
+The return to a lender of securities against collateral other than cash derives from the
+fee charged to the borrower. A cash flow of this transaction reads as follows:
+
+Transaction date 13th June 2003
+
+Settlement date 16th June 2003
+
+Term Open
+
+Security XYZ Limited
+
+Security price £10.00 per share
+
+Quantity 100,000 shares
+
+Loan value £1,000,000.00
+
+Lending fee 50 basis points (100ths of 1 per cent)
+Collateral UK FTSE 100 Concentrated DBVs
+Margin required 5%
+
+Collateral required £1,050,000.00 in DBVs
+
+Daily lending income £1,000,000.00 x 0.005 x (1/365) = £13.70
+
+Should the above transaction remain outstanding for one month and be returned on 16th
+July 2003 there will be two flows of revenue from the borrower to the lender.
+
+On 30th June fees of £191.80 (£13.70 x 14 days)
+On 31st July fees of £219.20 (£13.70 x 16 days)
+
+Thus total revenue is £411.00 against which the cost of settling the transaction (loan and
+collateral) must be offset.
+
+NB For purposes of clarity, the example assumes that the value of the security on loan
+has remained constant, when in reality the price would change daily resulting in a mark
+to market event, different fees chargeable per day and changes in the value of the col-
+lateral required. Open loan transactions can also be re-rated or have their fee changed
+if market circumstances alter. It is assumed that this did not happen either.
+
+The following table shows the range of lending fees observed for different asset classes in the UK market in
+December 2003. The majority of transactions are concluded at the lower end of the ranges quoted.
+
+Typical Fee Range
+(basis points per annum)
+
+UK FTSE 100 equities 6 — 200
+UK FTSE 250 equities 10 — 400
+
+Source: www.performanceexplorer.com
+
+(b) Transactions collateralised with cash
+
+Cash collateral is, and has been for many years, an integral part of the securities lending business, particu-
+larly in the United States. The lines between two distinct activities:
+
+¢ Securities lending and
+¢ Cash reinvestment
+
+have become blurred and to many US investment institutions securities lending is virtually synonymous with cash
+reinvestment. This is much less the case outside the United States but consolidation of the custody business and
+the important role of US custodian banks in the market means that this practice is becoming more prevalent. The
+importance of this point lies in the very different risk profiles of these increasingly intertwined activities.
+Transactions collateralised with cash
+
+Loan
+| Borrower
+
+Cash
+
+Loan
+— Borrower
+
+Cash
+
+Cash Collateral Collateral
+
+Money
+Markets
+
+Money
+Markets
+
+Loan Commences Loan Terminates
+
+The revenue generated from cash-collateralised securities lending transactions is derived in a different man-
+ner from that in a non-cash transaction. It is made from the difference or ‘spread’ between interest rates that
+are paid and received by the lender (see Box 2).
+
+Box 2: Cash flows on a securities loan collateralised with cash
+
+Transaction date 13th June 2003
+
+Settlement date 16th June 2003
+
+Term Open
+
+Security XYZ Limited
+
+Security price £10.00 per share
+
+Quantity 100,000 shares
+
+Loan value £1,000,000.00
+
+Rebate rate 80 basis points
+
+Collateral USD cash
+
+Margin required 5%
+
+Collateral required $1,718,850.00 (£1,050,000.00 x 1.67)
+Reinvestment rate 130 basis points
+
+Daily Lending Income $23.87 or £14.58 ($1,718,850.00 x 0.005 x (1/360))
+
+FX Rate assumed of £1.00 = $1.637
+
+If the above transaction remains outstanding for one month and is returned on 16th July
+2003, there will be two flows of cash from the lender to the borrower. These are based
+upon the cash collateral, and the profitability of the lender comes from the 50 basis
+points spread between the reinvestment rate and the rebate rate.
+
+$1,718,850 x 0.008 x (1/360)) = $38.20
+
+Payments to the borrower:
+
+On 30th June $534.80 ($38.20 x 14 days)
+On 3i1st July $611.20 ($38.20 x 16 days)
+
+The lender's profit will typically be taken as follows:
+
+On 30th June £204.12 (£14.58 x 14 days)
+On 3ist July £233.28 (£14.58 x 16 days)
+
+Thus total revenue is £437.40 against which the cost of settling the transactions (loan
+and collateral) must be offset.
+
+NB For purposes of clarity, this example assumes that the value of the security on loan
+has remained constant for the duration of the above transaction. This is most unlikely;
+typically the price would change daily resulting in a mark to market and changes to the
+value of the collateral required. Open loan transactions can also be re-rated or have their
+rebate changed if market circumstances alter. It is assumed that this did not happen
+either.
+
+The marginal increase in daily profitability associated with the cash transaction at a 50
+bps spread compared with the non-cash transaction of 50 bps is due to the fact that the
+cash spread is earned on the collateral which has a 5% margin as well as the fact that
+the USD interest rate convention is 360 days and not 365 days as in the United Kingdom.
+Reinvestment guidelines are typically communicated in words by the beneficial owner to their lending agent,
+and some typical guidelines might be as follows:
+
+Conservative
+
+¢ Overnight G7 Government Bond repo fund
+
+¢ Maximum effective duration of 1 day
+
+¢ Floating-rate notes and derivatives are not permissible
+¢ Restricted to overnight repo agreements
+
+Quite Conservative
+
+e¢ AAA rated Government Bond repo fund
+
+* Maximum average maturity of 90 days
+
+¢ Maximum remaining maturity of any instrument is 13 months
+
+Quite Flexible
+
+* Maximum effective duration of 120 days
+
+¢ Maximum remaining effective maturity of 2 years
+
+¢ Floating-rate notes and eligible derivatives are permissible
+
+* Credit quality: Short-term ratings: A1/P1, long-term ratings: A-/A3 or better
+
+Flexible
+
+¢ Maximum effective duration of 120 days
+
+¢ Maximum remaining effective maturity of 5 years
+
+¢ Floating-rate notes and eligible derivatives are permissible
+
+* Credit quality: Short-term ratings: A1/P1, long-term ratings: A-/A3 or better
+
+Some securities lending agents offer bespoke reinvestment guidelines whilst others offer reinvestment pools.
+
+transaction types
+
+Securities lending is part of a larger set of interlinked securities financing markets. These transactions are
+often used as alternative ways of achieving similar economic outcomes, although the legal form and account-
+ing and tax treatments can differ. The other transactions include:
+
+(a) Sale and repurchase agreements
+
+Sale and repurchase agreements or repos involve one party agreeing to sell securities to another against a
+transfer of cash, with a simultaneous agreement to repurchase the same securities (or equivalent securities)
+at a specific price on an agreed date in the future. It is common for the terms ‘seller’ and ‘buyer’ to replace
+the securities lending terms ‘lender’ and ‘borrower’. Most repos are governed by a master agreement called
+the TBMA/ISMA Global Master Repurchase Agreement (GMRA)°.
+
+Repos occur for two principal reasons — either to transfer ownership of a particular security between the par-
+ties or to facilitate collateralised cash loans or funding transactions.
+
+The bulk of bond lending and bond financing is conducted by repo and there is a growing equity repo mar-
+ket. An annex can be added to the GMRA to facilitate the conduct of equity repo transactions.
+
+Repos are much like securities loans collateralised against cash, in that income is factored into an interest
+rate that is implicit in the pricing of the two legs of the transaction.
+
+At the beginning of a transaction, securities are valued and sold at the prevailing ‘dirty’ market price (i.e.
+including any coupon that has accrued). At termination, the securities are resold at a predetermined price
+equal to the original sale price together with interest at a previously agreed rate known as the repo rate.
+
+In securities-driven transactions (i.e. where the motivation is not simply financing) the repo rate is typically
+set at a lower rate than prevailing money market rates to reward the ‘lender’ who will invest the funds in the
+money markets and thereby seek a return. The ‘lender’ often receives a margin by pricing the securities above
+their market level.
+
+In cash-driven transactions, the repurchase price will typically be agreed at a level close to current money
+market yields, as this is a financing rather than a security-specific transaction. The right to substitute repoed
+securities as collateral is agreed by the parties at the outset. A margin is often provided to the cash ‘lender’
+by reducing the value of the transferred securities by an agreed ‘haircut’ or discount.
+
+3 The Public Securities Association (‘PSA’) is now called the Bond Market Association (‘BMA’) and is a US trade association. The
+International Securities Market Association (‘ISMA’) is the self-regulatory organisation and trade association for the international securities
+market.
+(b) Buy/sell backs
+
+Buy/sell backs are similar in economic terms to repos but are structured as a sale and simultaneous purchase
+of securities, with the purchase agreed for a future settlement date. The price of the forward purchase is typ-
+ically calculated and agreed by reference to market repo rates.
+
+The purchaser of the securities receives absolute title to them and retains any accrued interest and coupon
+payments during the life of the transaction. However, the price of the forward contract takes account of any
+coupons received by the purchaser.
+
+Buy/sell back transactions are normally conducted for financing purposes and involve fixed income securities.
+In general a cash borrower does not have the right to substitute collateral. Until 1996, the bulk of buy/sell
+back transactions took place outside of a formal legal framework with contract notes being the only form of
+record. In 1995, the GMRA was amended to incorporate an annex that dealt explicitly with buy/sell backs. Most
+buy/sell backs are now governed by this agreement.
+
+The table below compares the three main forms of collateralised securities loan transaction.
+
+Securities/other Specific securities
+non-cash collateral (securities-driven)
+
+Formal method Sale with agreement | Sale with agreement | Sale and repurchase | Sale and repurchase | Sale and repurchase
+of exchange to make subsequent | to make subsequent | under terms of under terms of
+reacquisition of reacquisition of master agreement master agreement
+equivalent securities | equivalent securities
+Form of exchange | Securities vs cash Securities vs collateral] Securities vs cash Cash vs securities Cash vs securities
+(n.b. often free of (n.b. often delivery (n.b. often delivery (n.b. often delivery
+payment but versus payment) versus payment) versus payment)
+sometimes delivery
+versus delivery)
+
+Collateral type Cash Securities (bonds and | Cash General collateral Typically bonds
+equities), letters of (bonds) or acceptable
+Credit, DBVs, CDs collateral as defined
+by buyer
+
+Return is paid Cash collateral Loan securities (not | Cash Cash Cash
+to the supplier of collateral securities)
+
+Return payable as | Rebate interest Fee e.g. standard Quoted as repo rate, | Quoted as repo rate, | Quoted as repo rate,
+(i.e. return paid on fees for FTSE 100 paid as interest on paid as interest on paid through the price
+cash lower than stocks are about 6-8 | the cash collateral the cash differential between
+comparable cash basis points (lower than general sale price and
+
+market interest rates) (i.e. 0.06-0.08% pa) | collateral repo rate) repurchase price
+
+Variation margin Yes Yes No (only possible
+through close out and
+repricing)
+
+Over- Yes (in favour of the | Yes (in favour of the Possible (if any, Possible (if any,
+
+collateralisation securities lender) securities lender) in favour of the in favour of the
+
+cash provider) cash provider)
+
+Collateral Yes (determined Yes (determined Yes (determined No (only possible
+substitution by borrower) by borrower) by the original seller)| through close out
+and repricing)
+
+Dividends and Manufactured to Manufactured to Paid to the Paid to the No formal obligation
+
+coupons the lender the lender original seller original seller to return income
+normally factored into
+the buy-back price
+
+Legal s Yes Yes Yes
+
+event or taut
+
+Bonds and equities Mainly bonds, Almost entirely bonds
+va jes possible equities possible
+
+Mot Security specific Security specific Financing do!
+dominant
+
+Chapter 2 Lenders and intermediaries
+
+The securities lending market involves various types of specialist intermediary which take principal and/or
+agency roles. These intermediaries separate the underlying owners of securities — typically large pension or
+other funds, and insurance companies — from the eventual borrowers of securities, whose usual motivations
+are described in Chapter 4.
+
+A Intermediaries
+
+1. Agent intermediaries
+
+Securities lending is increasingly becoming a volume business and the economies of scale offered by agents
+that pool together the securities of different clients enable smaller owners of assets to participate in the mar-
+ket. The costs associated with running an efficient securities lending operation are beyond many smaller funds
+for which this is a peripheral activity. Asset managers and custodian banks have added securities lending to
+the other services they offer to owners of securities portfolios, while third party lenders specialise in provid-
+ing securities lending services.
+
+Owners and agents ‘split’ revenues from securities lending at commercial rates. The split will be determined
+by many factors including the service level and provision by the agent of any risk mitigation, such as an
+indemnity. Securities lending is often part of a much bigger relationship and therefore the split negotiation
+can become part of a bundled approach to the pricing of a wide range of services.
+
+(a) Asset managers
+
+It can be argued that securities lending is an asset management activity — a point that is easily understood
+in considering the reinvestment of cash collateral. Particularly in Europe, where custodian banks were perhaps
+slower to take up the opportunity to lend than in the United States, many asset managers run significant secu-
+tities lending operations.
+
+What was once a back office low profile activity is now a front office growth area for many asset managers.
+The relationship that the asset managers have with their underlying clients puts them in a strong position to
+participate.
+
+(b) Custodian banks
+
+The history of securities lending is inextricably linked with the custodian banks. Once they recognised the
+potential to act as agent intermediaries and began marketing the service to their customers, they were able
+to mobilise large pools of securities that were available for lending. This in turn spurred the growth of the
+market.
+
+Most large custodians have added securities lending to their core custody businesses. Their advantages
+include: the existing banking relationship with their customers; their investment in technology and global cov-
+erage of markets, arising from their custody businesses; the ability to pool assets from many smaller under-
+lying funds, insulating borrowers from the administrative inconvenience of dealing with many small funds and
+providing borrowers with protection from recalls; and experience in developing as well as developed markets.
+
+Being banks, they also have the capability to provide indemnities and manage cash collateral efficiently — two
+critical factors for many underlying clients.
+
+Custody is so competitive a business that for many providers it is a loss making activity. However, it enables
+the custodians to provide a range of additional services to their client base. These may include:
+
+Foreign exchange, trade execution, securities lending and fund accounting.
+
+(© Third-party agents
+
+Advances in technology and operational efficiency have made it possible to separate the administration of
+securities lending from the provision of basic custody services, and a number of specialist third-party agency
+
+lenders have established themselves as an alternative to the custodian banks.
+
+Their market share is currently growing from a relatively small base. Their focus on securities lending and their
+ability to deploy new technology without reference to legacy systems can give them flexibility.
+2. Principal intermediaries
+There are three broad categories of principal intermediary:
+
+e Broker dealers
+¢ Specialist intermediaries
+e Prime brokers
+
+In contrast to the agent intermediaries, they can assume principal risk, offer credit intermediation and take
+positions in the securities that they borrow. Distinctions between the three categories are blurred. Many firms
+would be in all three.
+
+In recent years securities lending markets have been liberalised to a significant extent so that there is little
+general restriction on who can borrow and who can lend securities.
+
+Lending can, in principle, take place directly between beneficial owners and the eventual borrowers. But typ-
+ically a number of layers of intermediary are involved. What value do the intermediaries add?
+
+A beneficial owner may well be an insurance company or a pension scheme while the ultimate borrower could
+be a hedge fund. Institutions will often be reluctant to take on credit exposures to borrowers that are not well
+recognised, regulated, or who do not have a good credit rating, which would exclude most hedge funds. In
+these circumstances, the principal intermediary (often acting as prime broker) performs a credit intermedia-
+tion service in taking a principal position between the lending institution and the hedge fund.
+
+A further role of the intermediaries is to take on liquidity risk. Typically they will borrow from institutions on
+an open basis — giving them the option to recall the underlying securities if they want to sell them or for
+other reasons — whilst lending to clients on a term basis, giving them certainty that they will be able to cover
+their short positions.
+
+In many cases, as well as serving the needs of their own propriety traders, principal intermediaries provide a
+service to the market in matching the supply of beneficial owners that have large stable portfolios with those
+that have a high borrowing requirement. They also distribute securities to a wider range of borrowers than
+underlying lenders, which may not have the resources to deal with a large number of counterparts.
+
+These activities leave principal intermediaries exposed to liquidity risk if lenders recall securities that have
+been on lent to borrowers on a term basis. One way to mitigate this risk is to use in-house inventory where
+available. For example, proprietary trading positions can be a stable source of lending supply if the long posi-
+tion is associated with a long-term derivatives transaction. Efficient inventory management is seen as critical
+and many securities lending desks act as central clearers of inventory within their organisations, only bor-
+rowing externally when netting of in-house positions is complete. This can require a significant technological
+investment. Other ways of mitigating ‘recall risk’ include arrangements to borrow securities from affiliated
+investment management firms, where regulations permit, and bidding for exclusive (and certain) access to
+securities from other lenders.
+
+On the demand side, intermediaries have historically been dependent upon hedge funds or proprietary traders
+that make trading decisions. But a growing number of securities lending businesses within investment banks
+have either developed ‘trading’ capabilities within their lending or financing departments, or entered into joint
+ventures with other departments or even in some cases their hedge fund customers. The rationale behind this
+trend is that the financing component of certain trading strategies is so significant that without the loan there
+is no trade.
+
+(a) Broker dealers
+Broker dealers borrow securities for a wide range of reasons:
+
+e¢ Market making
+© To support proprietary trading
+¢ On behalf of clients
+
+Many broker dealers combine their securities lending activities with their prime brokerage operation (the busi-
+ness of servicing the broad requirements of hedge funds and other alternative investment managers). This
+can bring significant efficiency and cost benefits. Typically within broker dealers the fixed income and equity
+divisions duplicate their lending and financing activities.
+
+(b) Specialist intermediaries
+
+Historically, regulatory controls on participation in stock lending markets meant that globally there were many
+intermediaries. Some specialised in intermediating between stock lenders and market makers in particular,
+e.g. UK Stock Exchange Money Brokers (‘SEMB’). With the deregulation of stock lending markets, these nich-
+es have almost all disappeared.
+Some of the specialists are now part of larger financial organisations. Others have moved to parent compa-
+nies that have allowed them to expand the range of their activities into proprietary trading.
+
+(© Prime brokers
+Prime brokers serve the needs of hedge funds and other ‘alternative’ investment managers. The business was
+once viewed, simply, as the provision of six distinct services, although many others such as capital introduc-
+
+tion, risk management, fund accounting and start up assistance have now been added:
+
+Services provided by prime brokers
+
+Profitable activities Part of the cost of being in business
+Securities lending Clearance
+
+Leverage of financing provision Custody
+
+Trade execution Reporting
+
+Securities lending is one of the central components of a successful prime brokerage operation, with its scale
+depending on the strategies of the hedge funds for which the prime broker acts. Two strategies that are heav-
+ily reliant on securities borrowing are long/short equity and convertible bond arbitrage.
+
+The cost associated with the establishment of a full service prime broker is steep, and recognised providers
+have a significant advantage. Some of the newer entrants have been using total return swaps, contracts for
+difference and other derivative transaction types to offer what has become known as ‘synthetic prime bro-
+kerage’. Again securities lending remains a key component of the service as the prime broker will still need
+to borrow securities in order to hedge the derivatives positions it has entered into with the hedge funds, for
+example, to cover short positions. But it is internalised within the prime broker and less obvious to the client.
+
+B Beneficial owners
+
+Those beneficial owners with securities portfolios of sufficient size to make securities lending worthwhile include:
+Pension funds
+Insurance and assurance companies
+
+Mutual funds/unit trusts
+Endowments
+
+When considering whether and how to lend securities, beneficial owners need first to consider the character-
+istics of their organisations and portfolio.
+
+1. Organisation characteristics
+(a) Management motivation
+
+Some owners lend securities solely to offset custody and administrative costs. Others are seeking more sig-
+nificant revenue.
+
+(b) Technology investment
+
+Lenders vary in their willingness to invest in technological infrastructure to support securities lending.
+
+(© Credit risk appetite
+
+The securities lending market consists of organisations with a wide range of credit quality and collateral capa-
+bilities. A cautious approach to counterpart selection (AAA only) and restrictive collateral guidelines (G7 Bonds)
+will limit lending volumes.
+
+2. Portfolio characteristics
+
+(a) Size
+
+Other things being equal, borrowers prefer large portfolios.
+
+(b) Holdings size
+
+Loan transactions generally exceed $250,000. Lesser holdings are of limited appeal to direct borrowers.
+Holdings of under $250,000 are probably best deployed through an agency programme, where they can be
+pooled with other inventories.
+
+(©) Investment strategy
+
+Active investment strategies increase the likelihood of recalls, making them less attractive than passive port-
+folios.
+
+(d) Diversification
+
+Borrowers want portfolios where they need liquidity. A global portfolio offers the greatest chance of generat-
+ing a fit. That said, there are markets that are particularly in demand from time to time and there are certain
+borrowers that have a geographic or asset class focus.
+
+(e) Tax jurisdiction and position
+
+Borrowers are responsible for ‘making good’ any benefits of share ownership (excluding voting rights) as if
+the securities had not been lent. They must ‘manufacture’ (i.e. pay) the economic value of dividends to the
+lender. An institution’s tax position compared to that of other possible lenders is therefore an important con-
+sideration. If the cost of manufacturing dividends or coupons to a lender is low then its assets will be in
+greater demand.
+
+(f) Inventory attractiveness
+
+‘Hot’ securities are those in high demand whilst general collateral or general collateral securities are those
+that are commonly available. Needless to say, the ‘hotter’ the portfolio, the higher the returns to lending.
+
+Having examined the organisation and portfolio characteristics of the beneficial owner, we must now consid-
+er the various possible routes to market.
+
+The possible routes to the securities lending market
+
+(a) Using an asset manager as agent
+
+A beneficial owner may find that the asset manager they have chosen, already operates a securities lending
+programme. This route poses few barriers to getting started quickly.
+
+(b) Using a custodian as agent
+
+This is the least demanding option for a beneficial owner, especially a new one. They will already have made
+a major decision in selecting an appropriate custodian. This route also poses few barriers to getting started
+quickly.
+
+(© Appointing a third-party specialist as agent
+
+A beneficial owner who has decided to outsource may decide it does not want to use the supplier’s asset
+manager(s) or custodian(s), and instead appoint a third-party specialist. This route may mean getting to know
+and understand a new provider prior to getting started. The opportunity cost of any delay needs to be fac-
+tored into the decision.
+
+(d) Auctioning a portfolio to borrowers
+
+Borrowers demand portfolios for which they bid guaranteed returns in exchange for gaining exclusive access
+to them. There are several different permutations of this auctioning route:
+
+* Do-it-yourself auctions
+¢ Assisted auctions
+° Agent assistance
+© Consultancy assistance
+© Specialist ‘auctioneer’ assistance
+
+This is not a new phenomenon but one that has gained a higher profile in recent years. A key issue for the
+beneficial owner considering this option is the level of operational support that the auctioned portfolio will
+require and who will provide it.
+
+e) Selecting one principal borrower
+
+Many borrowers effectively act as wholesale intermediaries and have developed global franchises using their
+expertise and capital to generate spreads between two principals that remain unknown to one another. These
+principal intermediaries are sometimes separately incorporated organisations, but more frequently, parts of
+larger banks, broker-dealers or investment banking groups. Acting as principal allows these intermediaries to
+deal with organisations that the typical beneficial owner may choose to avoid for credit reasons e.g. hedge
+funds.
+
+(f) Lending directly to proprietary principals
+
+Normally after a period of activity in the lending market using one of the above options, a beneficial owner
+that is large enough in its own right, may wish to explore the possibility of establishing a business ‘in house’,
+lending directly to a selection of principal borrowers that are the end-users of their securities. The proprietary
+borrowers include broker-dealers, market makers and hedge funds. Some have global borrowing needs while
+others are more regionally focused.
+
+(g) Choosing some combination of the above
+
+Just as there is no single or correct lending method, so the options outlined above are not mutually exclu-
+sive. Deciding not to lend one portfolio does not preclude lending to another; similarly, lending in one coun-
+try does not necessitate lending in all. Choosing a wholesale intermediary that happens to be a custodian in
+the United States and Canada does not mean that a lender cannot lend Asian assets through a third-party
+specialist, and European assets directly to a panel of proprietary borrowers.
+Chapter 3 The borrowing motivation
+
+One of the central questions commonly asked by issuers and investors alike is ‘Why does the borrower bor-
+row my securities?’ Before considering this point let us examine why issuers might care.
+
+Issuers
+
+If securities were not issued, they could not be lent. Behind this simple tautology lies an important point.
+When Initial Public Offerings are frequent and corporate merger and acquisition activity is high, the securities
+lending business benefits. In the early 2000s, the fall in the level of such activity depressed the demand to
+borrow securities leading to:
+
+¢ A depressed equity securities lending market, meaning:
+° Fewer trading opportunities
+° Less demand
+° Fewer ‘specials’
+¢ Issuer concern about the role of securities lending, such as:
+° Whether it is linked in any way to the decline in the value of a company’s shares?
+© Whether securities lending should be discouraged?
+
+How many times does an issuer discussing a specific corporate event stop to consider the impact that the
+issuance of a convertible bond, or the adoption of a dividend reinvestment plan might have upon the lend-
+ing of their shares.
+
+There is a significant amount of information available on the ‘long’ side of the market and correspondingly
+little on the short side. Securities lending activity is not synonymous with short selling. But it is often,
+although not always, used to finance short sales (See below) and might be a reasonable and practical proxy
+for the scale of short selling activity in the absence of full short sale disclosure. It is therefore natural that
+issuers would want to understand how and why their securities are traded.
+
+Reasons to borrow
+
+Borrowers, when acting as principals, have no obligation to tell lenders or their agents why they are borrow-
+ing securities. In fact they may well not know themselves as they may be on-lending the securities to pro-
+prietary traders or hedge funds that do not share their trading strategies openly. Some prime brokers are
+deliberately vague when borrowing securities as they wish to protect their underlying hedge fund customer’s
+trading strategy and motivation.
+
+This chapter explains some of the more common reasons behind the borrowing of securities. In general, these
+can be grouped into: (1) borrowing to cover a short position (settlement coverage, naked shorting, market
+making, arbitrage trading); (2) borrowing as part of a financing transaction motivated by the desire to lend
+cash, and; (3) borrowing to transfer ownership temporarily to the advantage of both lender and borrower (tax
+arbitrage, dividend reinvestment plan arbitrage).
+
+Borrowing to cover short positions
+
+(a) Settlement coverage
+
+Historically, settlement coverage has played a significant part in the development of the securities lending
+market. Going back a decade or so, most securities lending businesses were located in the back offices of
+their organisations and were not properly recognised as businesses in their own right. Particularly for less liq-
+uid securities — such as corporate bonds and equities with a limit free float — settlement coverage remains a
+large part of the demand to borrow.
+
+The ability to borrow to avoid settlement failure is vital to ensure efficient settlement and has encouraged
+many securities depositories into the automated lending business. This means that they remunerate customers
+for making their securities available to be lent by the depository automatically in order to avert any settle-
+ment failures.
+
+(b) Naked shorting
+
+Naked shorting can be defined as borrowing securities in order to sell them in the expectation that they can
+be bought back at a lower price in order to return them to the lender. Naked shorting is a directional strate-
+gy, speculating that prices will fall, rather than a part of a wider trading strategy, usually involving a corre-
+sponding long position in a related security.
+
+Naked shorting is a high-risk strategy. Although some funds specialise in taking short positions in the shares
+of companies they judge to be overvalued, the number of funds relying on naked shorting is relatively small
+and probably declining.
+(©) Market making
+
+Market makers play a central role in the provision of two-way price liquidity in many securities markets around
+the world. They need to be able to borrow securities in order to settle ‘buy orders’ from customers and to
+make tight, two-way prices.
+
+The ability to make markets in illiquid small capitalisation securities is sometimes hampered by a lack of
+access to borrowing, and some of the specialists in these less liquid securities have put in place special
+arrangements to enable them to gain access to securities. These include guaranteed exclusive bids with secu-
+rities lenders.
+
+The character of borrowing is typically short term for an unknown period of time. The need to know that a
+loan is available tends to mean that the level of communication between market makers and the securities
+lending business has to be highly automated. A market maker that goes short and then finds that there is no
+loan available would have to buy that security back to flatten its book.
+
+(d) Arbitrage trading
+
+Securities are often borrowed to cover a short position in one security that has been taken to hedge a long
+position in another as part of an ‘arbitrage’ strategy. Some of the more common arbitrage transactions that
+involve securities lending are described below.
+
+(i) Convertible bond arbitrage
+
+Convertible bond arbitrage involves buying a convertible bond and simultaneously selling the underlying equi-
+ty short and borrowing the shares to cover the short position (See Box 3). Leverage can be deployed to
+increase the return in this type of transaction. Prime brokers are particularly keen on hedge funds that engage
+in convertible bond arbitrage as they offer scope for several revenue sources:
+
+Securities lending revenues
+
+Provision of leverage
+
+Execution of the convertible bond
+
+Execution of the equity
+
+Box 3: Worked example of convertible bond arbitrage
+
+Long side
+
+© 5% XYZ Limited convertible bond
+
+* Maturing in one year at US$1,000
+
+¢ Exchangeable into 100 non-dividend-paying shares
+© Stock currently trading at US$10 per share
+
+Short side
+* Ashort position of 50 underlying shares at $10 per share
+
+Pricing inefficiencies between these two related securities can create arbitrage opportu-
+nities whether the underlying share price rises or falls. In general, however, the trade will
+be more profitable if the implied volatility of the share price rises, increasing the value
+of the call option embedded in the convertible bond.
+
+Unless the issuer defaults, convertible bonds can only fall in value as low as their ‘invest-
+ment value’ — what the same company bond would be worth if it were not convertible.
+In this case, the investment value is assumed to be US$920.
+
+Bondholders can purchase protection against issuer default using credit default swaps
+but this element of the transaction is not covered in this example. To keep the example
+simple, it is also assumed that the convertible trades with a ‘delta’ of one to the stock
+(i.e. that the prices of the convertible bond and the share change at the same rate.)
+
+A transaction such as the one outlined above would have the following return dynamics:
+
+No change in share price:
+
+Interest payments on $1,000 convertible bond (5%) $50.00
+Interest earned on $500 short sale proceeds (1.5%) $7.50
+
+Fees paid to lender of shares (0.25% per annum) ($1.50)
+Net cash flow $56.00
+
+Annual return 5.60%
+25% rise in share price:
+
+Gain on convertible bond $250.00
+Loss on shorted stock (50 shares @ $2.50/share) ($125.00)
+Interest from convertible bond $50.00
+Interest earned on short sale proceeds $7.50
+Fees paid to lender of shares ($1.50)
+Net trading gains and cash flow $181.00
+Annual return 18.10%
+25% fall in share price:
+
+Loss on convertible bond (only falling as low as ‘investment value’) ($80.00)
+Gain on shorted stock (50 shares @ $2.50/share) $125.00
+Interest from convertible bond $50.00
+Interest earned on short sale proceeds $7.50
+Fees paid to lender of shares ($1.50)
+Net cash flow $101.00
+Annual return 10.10%
+
+Components of Return
+
+(ii) Pairs trading or relative value ‘arbitrage’
+
+This in an investment strategy that seeks to identify two companies with similar characteristics whose equity
+securities are currently trading at a price relationship that is out of line with their historical trading range. The
+strategy entails buying the apparently undervalued security while selling the apparently overvalued security
+short, borrowing the latter security to cover the short position.
+
+Focusing on securities in the same sector or industry should normally reduce the risks in this strategy. The
+
+following chart shows how Shell and BP have traded since 1991. At times it would have been possible to buy
+one share and sell the other awaiting price realignment.
+
+BP and Shell Price (Rebased)
+
+T T T T T T T T T T 1
+Dec 92 Dec 93 Dec 94 Dec 95 Dec 96 Dec 97 Dec 98 Dec 99 Dec 00 Dec 01 Dec 02
+
+BP == Shell =
+
+Source: Securities Finance Systems
+
+(iii) Index arbitrage
+In this context, arbitrage refers to the simultaneous purchase and sale of the same commodity or stock in two
+different markets in order to profit from price discrepancies between the markets.
+
+In the stock market, an arbitrage opportunity arises when the same security trades at different prices in dif-
+ferent markets. In such a situation, investors buy the security in one market at a lower price and sell it in
+another for more, capitalising on the difference. However, such an opportunity vanishes quickly as investors
+rush to take advantage of the price difference.
+
+The same principle can be applied to index futures. Being a derivative product, index futures derive their value
+from the securities that constitute the index. At the same time, the value of index futures is linked to the
+stock index value through the opportunity cost of funds (borrowing/lending cost) required to play the market.
+Stock index arbitrage involves buying or selling a basket of stocks and, conversely, selling or buying futures
+when mispricing appears to be taking place.
+
+(iv) When is an arbitrage possible?
+
+Where the current index futures price (FC) is not equal to the index value (IC) plus the difference between the
+risk free interest (RF) and dividends (D) obtainable over the life of the contract.
+
+Or whenever the following is not true FC = IC + (RF-D).
+
+Whenever the actual futures price moves away from the above calculated value, i.e. when FC > IC + (RF-D) or
+F < IC + (RF-D), arbitrage opportunities exist. The difference between the current theoretical actual cost and
+the futures price is called the basis. It is this difference that creates an arbitrage opportunity.
+
+When FC > IC + (RF-D) a trader can profit by taking the following action:
+
+e Buying a portfolio which is identical to the index value
+¢ Selling index futures
+
+When FC < IC + (RF-D) a trader can profit by taking the following action:
+
+© Going short (selling) a portfolio which is identical to the index value
+¢ Buying index futures
+
+It is here that securities lending plays its role. The ability of a borrower to source a complete portfolio of all
+the stocks in an index, properly weighted, that will accurately track the performance of the index is a big
+advantage. Incomplete indices or unbalanced indices open up the possibility of tracking errors occurring
+whereby the performance of the short cash portfolio deviates from that of the index.
+
+The ability to borrow securities that have a cheaper manufactured dividend obligation is an advantage too.
+One of the problem areas is when a component (or components) of the index is in high demand (‘trading spe-
+cial’) and the cost of borrowing rises, thereby reducing the profitability of the transaction. The ability to bor-
+row for a fixed term is also an advantage.
+
+The best sources of securities to support this type of transaction are passive index tracking funds incorpo-
+rated in countries that have high rates of withholding tax.
+
+Once established, the stock index arbitrage can generate profits should the price of the index and the under-
+lying securities move up or down. The arbitrage opportunity is often short-lived as positions are taken and
+the price adjusts. As these transactions normally have thin margins, they are often executed in large sizes.
+
+(2) Financing
+
+As broker dealers build derivative prime brokerage and customer margin business, they hold an increasing
+inventory of securities that requires financing.
+
+This type of activity is high volume and takes place between two counterparts that have the following coin-
+cidence of wants:
+
+*® One has cash that they would like to invest on a secured basis and pick up yield
+¢ The other has inventory that needs to be financed
+
+In the case of bonds, the typical financing transaction is a repo or buy/sell back. But for equities, securities
+lending and equity, repo transactions are used.
+
+Tri Party Agents are often involved in this type of financing transaction as they can reduce operational costs
+for the cash lender and they have the settlement capabilities the cash borrower needs to substitute securi-
+ties collateral as their inventory changes.
+
+(3) Temporary transfers of ownership
+
+(a) Tax arbitrage
+
+Tax driven trading is an example of securities lending as a means of exchange.
+Markets that have historically provided the largest opportunities for tax arbitrage include those with signifi-
+cant tax credits that are not available to all investors - examples include Italy, Germany and France.
+
+The different tax positions of investors around the world have opened up opportunities for borrowers to use
+securities lending transactions, in effect, to exchange assets temporarily for the mutual benefit of purchaser,
+borrower and lender. The lender’s reward comes in one of two ways: either a higher fee for lending if they
+require a lower manufactured dividend, or a higher manufactured dividend than the post-tax dividend they
+would normally receive (quoted as an ‘all-in rate’).
+
+For example, an offshore lender that would normally receive 75% of a German dividend and incur 25% with-
+holding tax (with no possibility to reclaim) could lend the security to a borrower that, in turn, could sell it to
+a German investor who was able to obtain a tax credit rather than incur withholding tax. If the offshore lender
+claimed the 95% of the dividend that it would otherwise have received, it would be making a significant pick-
+up (20% of the dividend yield), whilst the borrower might make a spread of between 95% and whatever the
+German investor was bidding. The terms of these trades vary widely and rates are calculated accordingly.
+
+(b) Dividend reinvestment plan arbitrage
+
+Many issuers of securities create an arbitrage opportunity when they offer shareholders the choice of taking
+a dividend or reinvesting in additional securities at a discounted level.
+
+Income or index tracking funds that cannot deviate from recognised securities weightings may have to choose
+to take the cash option and forgo the opportunity to take the discounted reinvestment opportunity.
+
+One way that they can share in the potential profitability of this opportunity is to lend securities to borrow-
+ers that then take the following action:
+
+Borrow as many guaranteed cash shares as possible, as cheaply as possible
+
+Tender the borrowed securities to receive the new discounted shares
+
+Sell the new shares to realise the ‘profit’ between the discounted share price and the market price
+Return the shares and manufacture the cash dividend to the lender
+Chapter 4 Market mechanics
+
+This section outlines the detailed processes in the life of a securities loan including:
+
+Negotiation of loan deals
+
+Confirmations
+
+Term of loan
+
+Term trades
+
+Putting securities ‘on hold’
+
+Settlements, including how loans are settled and settlement concerns
+Termination of loans
+
+Redelivery, failed trades and legal remedies
+
+Corporate actions and voting
+
+UK tax arrangements and reporting of transactions to the London Stock Exchange
+
+Loan negotiation
+
+Traditionally securities loans have been negotiated between counterparts (whose credit departments have
+approved one another) on the phone, and followed up with written or electronic confirmations. Normally the
+borrower initiates the call to the lender with a borrowing requirement. However, pro-active lenders may also
+offer out in-demand securities to their approved counterparts. This would happen particularly where one bor-
+rower returns a security and the lender is still lending it to others in the market, they will contact them to
+see if they wish to borrow additional securities.
+
+Today, there is an increasing amount of bilateral and multilateral automated lending whereby securities are
+broadcast as available at particular rates by email or other electronic means. Where lending terms are agree-
+able, automatic matching can take place.
+
+An example of an electronic platform for negotiating equity securities loan transactions is EquiLend, which
+began operations in 2002 and is backed by a consortium of financial institutions. EquiLend’s stated objective
+is to: ‘Provide the securities lending industry with the technology to streamline and automate transactions
+between borrowing and lending institutions and... introduce a set of common protocols. EquiLend will con-
+nect borrowers and lenders through a common, standards-based global equity lending platform enabling them
+to transact with increased efficiency and speed, and reduced cost and risk.’ EquiLend is not alone in this mar-
+ket; for example, SecFinex offers similar services in Europe.
+
+Confirmations
+
+Written or electronic confirmations are issued, whenever possible, on the day of the trade so that any queries
+by the other party can be raised as quickly as possible. Material changes during the life of the transaction
+are agreed between the parties as they occur and may also be confirmed if either party wishes it. Examples
+of material changes are collateral adjustments or collateral substitutions. The parties agree who will take
+responsibility for issuing loan confirmations.
+
+Confirmations would normally include the following information:
+
+Contract and settlement dates
+
+Details of loaned securities
+
+Identities of lender and borrower (and any underlying principal)
+Acceptable collateral and margin percentages
+
+Term and rates
+
+Bank and settlement account details of the lender and borrower
+
+Term of loan, and selling securities while on loan
+
+Loans may either be for a specified term or open. Open loans are trades with no fixed maturity date. It is
+more usual for securities loans to be open or ‘at call’, especially for equities, because lenders typically wish
+to preserve the flexibility for fund managers to be able to sell at any time. Lenders are able to sell securities
+despite their being on open loan because they can usually be recalled from the borrower within the settle-
+ment period of the market concerned. Nevertheless open loans can remain on loan for a long period.
+
+Term trades - fixed or indicative?
+
+The general description ‘term trade’ is used to describe differing arrangements in the securities lending mar-
+ket. The parties have to agree whether the term of a loan is ‘fixed’ for a definite period or whether the dura-
+tion is merely ‘indicative’ and therefore the securities are callable. If fixed, the lender is not obliged to accept
+the earlier return of the securities; nor does the borrower need to return the securities early if the lender
+requests it. Accordingly, securities subject to a fixed loan should not be sold while on loan.
+
+Where the term discussed is intended to be ‘indicative’, it usually means that the borrower has a long-term
+need for the securities but the lender is unable to fix for term and retains the right to recall the securities if
+necessary.
+
+Putting securities ‘on hold’ (also known as ‘icing’)
+
+Putting securities ‘on hold’ (referred to in the market as ‘icing’ securities) is the practice whereby the lender
+will reserve securities at the request of a borrower on the borrower’s expected need to borrow those securi-
+ties at a future date. This occurs where the borrower must be sure that the securities will be available before
+committing to a trade that will require them.
+
+While some details can be agreed between the parties, it is normal for any price quoted to be purely indica-
+tive, and for securities to be held to the following business day. The borrower can ‘roll over’ the arrangement
+(i.e. continue to ice the securities) by contacting the holder before 9am, otherwise it terminates.
+
+Key aspects of icing are that the lender does not receive a fee for reserving the securities and they are gen-
+erally open to challenge by another borrower making a firm bid. In this case the first borrower would have
+30 minutes to decide whether to take the securities at that time or to release them.
+
+‘Pay-to-hold’ arrangements
+
+A variation on icing is ‘pay-to-hold’ where the lender does receive a fee for putting the securities on hold. As
+such, they constitute a contractual agreement and are not open to challenge by other borrowers.
+
+How are loans settled?
+
+Securities lenders need to settle transactions on a shorter timeframe than the customary settlement period
+for that market. Settlement will normally be through the lender’s custodian bank and this is likely to apply
+irrespective of whether the lender is conducting the operation or delegating to an agent. The lender will usu-
+ally have agreed a schedule of guaranteed settlement times for its securities lending activity with its custo-
+dians. Prompt settlement information is crucial to the efficient monitoring and control of a lending programme,
+with reports needed for both loans and collateral.
+
+In most settlement systems securities loans are settled as ‘free-of-payment’ deliveries and the collateral is
+taken quite separately, possibly in a different payment or settlement system and maybe a different country
+and time zone. For example, UK equities might be lent against collateral provided in a European International
+Central Securities Depository or US dollar cash collateral paid in New York. This can give rise to what is known
+in the market as ‘daylight exposure’, a period during which the loan is not covered as the lent securities have
+been delivered but the collateral securities have not yet been received. To avoid this exposure some lenders
+insist on pre-collateralisation, so transferring the exposure to the borrower.
+
+The CREST system for settling UK and Irish securities is an exception to the normal practice as collateral is
+available within the system. This enables loans to be settled against cash intra-day and for the cash to be
+exchanged, if desired, at the end of the settlement day for a package of DBV securities overnight. The process
+can be reversed and repeated the next day.
+
+CREST settlement facility for stock lending
+
+CREST also has specific settlement arrangements for stock loans, requiring the independent input of instruc-
+tions by both parties, who must complete a number of matching fields, including the amount and currency of
+any cash collateral, together with the percentage value of applicable loan margin. Loans may be effected
+against sterling, euro or dollar consideration or made free-of-payment.
+
+Immediately after the settlement of the loan, CREST automatically creates a pre-matched stock loan return
+transaction with an intended settlement date of the next business day. The return is prevented from settling
+until the borrower intervenes to raise the settlement priority of the transaction. The stock lender may freeze
+the transaction in order to prevent the stock from returning.
+
+CREST provides full revaluation facilities for all securities out on loan. On the original creation of the return
+and every night that the loan is open thereafter, it is marked to market against the prevailing CREST offer
+price. Any deficit or surplus of cash collateral of a stock loan return arising from price fluctuations is correct-
+ed by CREST which automatically generates payment instructions between the parties and simultaneously
+alters the value of the return consideration. Users may opt out of the revaluation process by completing the
+relevant field of the loan transaction, or by settling loans on a free-of-payment basis.
+Termination of the loan
+
+Open loans may be terminated by the borrower returning securities or by the lender recalling them. The bor-
+rower will normally return borrowed securities when it has filled its short position. A borrower will sometimes
+refinance its loan positions by borrowing more cheaply elsewhere and returning securities to the original
+lender. The borrower may, however, give the original lender the opportunity to reduce the rate being charged
+on the loan before borrowing elsewhere.
+
+Redelivery, failed trades and legal remedies
+
+When deciding which markets and what size to lend in, securities lenders will consider how certain they can
+be of having their securities returned in a timely manner when called, and what remedies are available under
+the legal agreement (see below) in the event of a failed return.
+
+Procedures to be followed in the event of a failed redelivery are usually covered in legal agreements or oth-
+erwise agreed between the parties at the outset of the relationship. Financial redress may be available to the
+lender if the borrower fails to redeliver loaned securities or collateral on the intended settlement date. Costs
+that would typically be covered include:
+
+Direct interest and/or overdraft incurred
+Costs reasonably and properly incurred as a result of the borrower's failure to meet its sale or
+delivery obligations
+
+¢ Total costs and expenses reasonably incurred by the lender as a result of a ‘buy-in’ (i.e. where the
+lender is forced to purchase securities in the open market following the borrower's failure to return
+them)
+
+Costs that would usually be excluded are those arising from the transferee’s negligence or wilful default and
+any indirect or consequential losses. An example of that would be when the non-return of loaned securities
+causes an onward trade for a larger amount to fail. The norm is for only that proportion of the total costs
+which relates to the unreturned securities or collateral to be claimed. It is good practice, where possible, to
+consider ‘shaping’ or ‘partialling’ larger transactions (i.e. breaking them down into a number of smaller
+amounts for settlement purposes) so as to avoid the possibility of the whole transaction failing if the trans-
+feror cannot redeliver the loaned securities or collateral on the intended settlement date.
+
+Corporate actions and votes
+
+The basic premise underlying securities lending is to make the lender ‘whole’ for any corporate action event
+— such as a dividend, rights or bonus issue — by putting the borrower under a contractual obligation to make
+equivalent payments to the lender, for instance by ‘manufacturing’ dividends. However a shareholder’s right
+to vote as part owner of a company cannot be manufactured. When securities are lent, legal ownership and
+the right to vote in shareholder meetings passes to the borrower, who will often sell the securities on. Where
+lenders have the right to recall securities, they can use this option to restore their holdings and voting rights.
+The onus is on the borrower to find the securities, by borrowing or purchasing them in the market if neces-
+sary. This can damage market liquidity, which is a risk that intermediaries manage.
+
+It is important that beneficial owners are aware that when shares are lent the right to vote is also transferred.
+The SLRC’s code of guidance (see Chapter 5) states in section 2.5.4 that lenders should make it clear to clients
+that voting rights are transferred. A balance needs to be struck between the importance of voting and the
+benefits derived from lending the securities. Beneficial owners need to ensure that any agents they have made
+responsible for their voting and stock lending act in a co-ordinated way.
+
+Borrowing securities in order to build up a holding in a company with the deliberate purpose of influencing
+a shareholder vote is not necessarily illegal in the United Kingdom. However, institutional lenders have recent-
+ly become more aware of the possibility, and tend not to see it as a legitimate use of securities borrowing.
+
+A number of market bodies, in the United Kingdom and internationally, have been addressing the relationship
+between securities lending and voting. For example, a recent report by Paul Myners to the UK Shareholder
+Voting Working Group’ made the following recommendation:
+
+‘Stocklending is important in maintaining market liquidity but borrowing of shares for the purpose of voting
+is not appropriate... it is important that beneficial owners are fully aware of the implications for voting if they
+agree to their shares being lent. In particular, when a resolution is contentious | start from the position that
+the lender should automatically recall the related stock, unless there are good economic reasons for not
+doing so.’
+
+4 ‘A Review of the Impediments to Voting UK Shares’, available at www.investmentfunds.org.uk.
+Internationally, a working group of the International Corporate Governance Network is currently examining best
+practices for long-term investors in relation to securities lending and voting. The SLRC is also considering addi-
+tions to its code in this area.
+
+UK tax arrangements and London Stock Exchange reporting by member firms
+
+London Stock Exchange rules require lending arrangements in securities on which UK Stamp Duty/Stamp Duty
+Reserve Tax (SDRT)° is chargeable to be reported to the Exchange. This enables firms to bring their borrow-
+ing and lending activity ‘on Exchange’ and to allow them to be exempt from Stamp Duty/SDRT. Firms which
+are not members of the Exchange but which conduct borrowing and lending through a member firm are also
+eligible for relief from stock lending Stamp Duty/SDRT. On Exchange lending arrangements are evidenced by
+regulatory reports that are transmitted to the Exchange by close of business on the day the lending arrange-
+ment is agreed.
+
+Prior to entering into a lending arrangement, member firms are required to sign a written agreement with the
+other party. The Exchange has authorised the following agreements:
+
+* Global Master Securities Lending Agreement
+
+¢ Master Equity & Fixed Interest Stock Lending Agreement (1996)
+
+e PSA/ISMA Global Master Repurchase Agreement as extended by supplemental terms and conditions
+for equity repo forming Part 2 of Annex 1 of the agreement
+
+Where an authorised agreement does not cover the circumstances in which a member firm wishes to enter
+
+into a lending arrangement, the firm must ensure that the agreement includes provisions equivalent to those
+contained within the Exchange’s rules on lending arrangements in relation to member firm default.
+
+UK Companies Act 1985
+
+Firms that are engaged in equity stock borrowing or lending in the United Kingdom will need to comply, where
+appropriate, with the notification requirements applying to notifiable interest in shares as set out in Part VI
+of the Companies Act 1985. Firms that are uncertain about the application of Part VI should seek legal advice.
+
+Transparency in the UK market
+
+CREST provides time-delayed information on the value of securities financing transactions in the top 350 UK
+equities. This is a subscription service begun in September 2003 following extensive discussion with market
+participants and the Financial Services Authority. The information it provides pertains to total Stamp Duty
+Reserve Tax-exempt transactions taking place in each security on a given day and excludes intermediary activ-
+ity where possible. CREST has provided answers to many frequently asked questions on its website,
+www.crest.co.uk.
+
+The launch of its securities financing data service coincided with its publication of settlement failure statis-
+tics. The London Stock Exchange monitors both and makes public announcements on stock lending activity
+when it feels it is appropriate.
+
+UK Takeover Panel
+
+If it is proposed that any securities lending should take place during an offer period for a UK company, the
+Takeover Panel should be consulted to establish whether any disclosure is required and whether there are any
+other consequences.
+
+5 As defined in Section 99 of the Finance Act 1986 and including stock as defined in the Stamp Act 1891.
+Chapter 5 Risks, regulation and market oversight
+
+This chapter describes the main financial risks in securities lending, and how lenders usually manage them.
+It is not a comprehensive description of the various operational, legal, market and credit risks to which mar-
+ket participants can be exposed. Readers seeking a fuller analysis are referred to the relevant sections of, for
+example, ‘Securities Lending Transactions: Market Development and Implications’. The chapter then briefly
+summarises the UK regulatory framework for securities lending market participants and the role of the UK
+Stock Lending and Repo Committee.
+
+Financial risks in securities lending are primarily managed through the use of collateral and netting. As
+described in Chapter 1, collateral can be in the form of securities or cash. The market value of the collateral
+is typically greater than that of the lent portfolio. This margin is intended to protect the lender from loss and
+reflect the practical costs of collateral liquidation and repurchase of the lent portfolio in the event of default.
+Any profits made in the repurchase of the lent portfolio are normally returned to the borrower's liquidator.
+Losses incurred are borne by the lender with recourse to the borrower’s liquidator along with other creditors.
+
+Risks and risk management
+
+When taking cash as collateral
+
+Because of its wide acceptability and ease of management, cash can be highly appropriate collateral. However,
+the lender needs to decide how best to utilise this form of collateral. As described in Chapter 1, a lender tak-
+ing cash as collateral pays rebate interest to the securities borrower, so the cash must be reinvested at a high-
+er rate to make any net return on the collateral. This means the lender needs to decide on an appropriate
+risk-return trade-off. In simple terms, reinvesting in assets that carry one of the following risks can increase
+expected returns:
+
+¢ a higher credit risk: a risk of loss in the event of defaults or
+¢ a longer maturity in relation to the likely term of the loan
+
+Many of the large securities lending losses over the years have been associated with reinvestment of cash
+collateral.
+
+Typically, lenders delegate reinvestment to their agents, (e.g. custodian banks). They specify reinvestment
+guidelines, such as those set out in Chapter 1. There is a move towards more quantitative, risk-based
+approaches; often specifying the ‘value-at-risk’ in relation to the different expected returns earned from alter-
+native reinvestment profiles. Agents do not usually offer an indemnity against losses on reinvestment activi-
+ty so that the lender retains all of the risk while their agent is paid part of the return.
+
+When taking other securities as collateral
+
+Compared with cash collateral, taking other securities as collateral is a way of avoiding reinvestment risk. In
+addition to the risks of error, systems failure and fraud always present in any market, problems then arise on
+the default of a borrower. In such cases the lender will seek to sell the collateral securities in order to raise
+the funds to replace the lent securities. Transactions collateralised with securities are exposed to a number
+of different risks:
+
+Reaction and legal risk. \f a lender experiences delays in either selling the collateral securities or repurchasing
+the lent securities, it runs a greater risk that the value of the collateral will fall below that of the loan in the
+interim. Typically, the longer the delay, the larger the risk.
+
+Mispricing risk. The lender will be exposed if either collateral securities have been over-valued or lent securi-
+ties under-valued because the prices used to mark to market differ from prices that can actually be traded in
+the secondary market. One example of mispricing is using mid rather than bid prices for collateral. For illiq-
+uid securities, obtaining a reliable price source is particularly difficult because of the lack of trading activity.
+
+Liquidity risk. \\liquid securities are more likely to be realised at a lower price than the valuation used.
+Valuation ‘haircuts’ are used to mitigate this risk (i.e. collateral is valued at, for example, 98% or 95% of the
+current market value). The haircuts might depend upon:
+¢ The proportion of the total security issue held in the portfolio — the larger the position, the greater
+
+the haircut
+*¢ The average daily traded volume of the security: the lower the volume, the greater the haircut
+¢ The volatility of the security; the higher the volatility, the greater the haircut
+
+6 (BIS/IOSCO, 1999)
+Congruency of collateral and lent portfolios (mismatch risk). \f the lent and collateral portfolios were identical
+then there would be no market risk. In practice, of course, the lent and collateral portfolios are often very dif-
+ferent. The lender's risk is that the market value of the lent securities increases but that of the collateral secu-
+rities falls before rebalancing can be effected. Provided the counterpart has not defaulted, the lender will be
+able to call for additional collateral on any adverse collateral/loan price movements. However, following
+default, it will be exposed until it has been able sell the collateral and replace the lent securities.
+
+The size of mismatch risk depends on the expected co-variance of the value of the collateral and lent secu-
+tities. The risk will be greater if the value of the collateral is more volatile, the value of the lent securities is
+more volatile, or if their values do not tend to move together, so that the expected correlation between
+changes in their value is low. For example, in deciding whether to hold UK government securities or UK equi-
+ties to collateralise a loan of BP shares, a lender would have to judge whether the greater expected correla-
+tion between the value of the UK equities and the BP shares reduced mismatch risk by more than the lower
+expected volatility in the value of the government securities.
+
+Many agent intermediaries will offer beneficial owners protection against these risks by agreeing to return
+
+(buy-in) lent securities immediately for their clients following a fail, taking on the risk that the value of the
+collateral on liquidation is lower.
+
+Securities lending using other securities as collateral: a worked example
+
+This example illustrates one approach to estimating the risk exposure to a lender taking securities as
+collateral.
+
+Table 1: Summary of ABCs lent and collateral position with Borrower 1
+
+No. of Loan
+Positions
+
+No. of Collateral
+Positions
+
+Lo
+
+[2
+ee
+
+Ee ee
+
+ee ee eee
+
+Ps we
+
+Source: Barrie & Hibbert
+
+UK 20-Year Bonds
+
+US Equities
+
+Assume that lender ABC has loaned Borrower 1 a range of equities in the UK, US, Japanese and Malaysian
+markets. Collateral is mainly in the form of UK gilts at various maturities, sterling cash deposits and US long-
+dated Treasury bonds. The gross margin is £25m or 4.5% of loan inventory.
+
+Table 2: Data used to drive the analysis
+
+Colao Asotin
+Liq (£m) Residual Risk (% p.a.) &
+
+1. 0.93 . “0.01 0. r . 7
+
+0, ‘ -0. . : . -
+
+30
+
+9%
+-0.09 . . -0.04 -0.09  -0.07  -0,02
+6
+Japanese Equities
+
+Malaysian Equities 6"
+
+00 .
+93
+1.38 0.
+0.70 0.65
+0.31 0.37
+0.64 0.61
+0.26 © 0.23
+
+US Long Bonds
+
+| |
+
+P=
+
+Source: Barrie & Hibbert
+Table 2 shows the type of data on which a detailed analysis of mismatch risk might be based: the average
+daily liquidity in each asset class, the volatility of each asset class, the average residual risk on particular
+securities within each asset class and a matrix of correlations between various asset classes.
+
+Realistic valuations
+
+The first consideration is whether the valuation prices are fair. Assuming the portfolios have been conserva-
+tively valued at bid and offer (not mid) prices, then the lender might require some adjustment (haircut) to
+reflect concentration and price volatility of the different assets. For example, in the case of the sterling cash
+collateral, the haircut might be negligible. But for the Malaysian equity portfolio, a high adjustment might be
+sought on the assumption that it would probably cost more than £100m to buy back this part of the lent port-
+folio. Required haircuts might be based on the average daily liquidity for the asset class, the price volatility
+of the asset class and the residual risk on individual securities, taken from Table 2.
+
+Table 3: Adjusted collateral and lent portfolio values
+
+Adjusted Loan Adjusted Collateral
+om wee (£m) Inventory ee
+
+a
+
+ee
+ee
+as Cc
+Cy
+rs
+
+Source: Barrie & Hibbert
+
+Table 3 shows how necessary haircuts could affect the valuation. For example, the lent Malaysian equities
+have been revised upwards to £101.4m. This reflects the lower liquidity and higher volatility of the Malaysian
+equities, which outweigh the risk reduction brought by diversifying the risk on the lent portfolio. The lender’s
+margin has thus effectively been reduced from £25m to £16.2m or 2.9%.
+
+Risk calculation (post-default)
+
+Using the adjusted portfolios, the lender can then calculate the risk of a collateral shortfall in the event of
+the borrower defaulting. Broadly, this will need to assess the volatility of each asset class, the correlation
+between them and the residual risk of securities within them to derive a range of possible scenarios from
+which probabilities of loss and the most likely size of losses on default can be estimated. Working on the
+assumption that the lender can realise its collateral and replace its lent securities in a reaction time of twen-
+ty days, Table 4 shows the results for the portfolio, together with some sensitivity analysis in case market
+volatility and liquidity that has been significantly changed. By increasing the volatility assumption or reduc-
+ing the liquidity assumption, the probability and scale of expected losses increase.
+
+Table 4: Risk analysis for Borrower 1 under different assumptions
+
+Probability of Loss Expected Loss
+on Default on Default (£m)
+
+a
+
+Source: Barrie & Hibbert
+
+The final sensitivity is reaction time and Table 5 shows how the probability and expected size of losses
+decrease if the lender can realise the collateral and replace the lent securities more quickly.
+
+This framework can be used to understand how possible changes in ABC’s programme with Borrower 1 might
+affect the risks. Table 5 summarises some of the possible changes that could be made, in each case leaving
+the base case portfolio unchanged in other respects.
+Table 5: Risk analysis for Borrower 1 under different lending policies
+
+Probability of Loss Expected Loss
+on Default on Default (£m)
+a
+
+ee
+
+Halve the Concentration 2.7
+(ie. double the number of
+securities lent and collateral)
+
+£10m more in Cash Collateral
+
+No Malaysian Lending +
+
+Reduction in Cash Collateral | 17%
+
+Matched Collateral/Lent
+
+Exposure & Concentration
+
++ Residual Collateral in Cash 0.7
+
+Source: Barrie & Hibbert
+
+Netting (set off - see below) is an important element of risk management given that market participants will
+often have many outstanding trades with a counterpart. If there is a default the various standard industry
+master agreements for securities lending should provide for the parties’ various obligations under different
+securities lending transactions governed by a master agreement to be accelerated, i.e. payments become due
+at current market values. So instead of requiring the parties to deliver securities or collateral on each of their
+outstanding transactions gross, their respective obligations are valued (i.e. given a cash value) and the value
+of the obligations owed by one party are set off against the value of the obligations owed by the other, and
+it is the net balance that is then due in cash.
+
+This netting mechanism is a crucial part of the agreement. That is why there is so much legal focus on it: for
+example, participants need to obtain legal opinions about the effectiveness of netting provisions in jurisdic-
+tions of overseas counterparts, particularly in the event of a counterpart’s insolvency.
+
+That is also why regulators of financial firms typically expect legal opinions on the robustness of netting
+arrangements before they will recognise the value of collateral in reducing counterpart credit exposures for
+capital adequacy purposes. In the United Kingdom, SLRC has a netting sub-group, which, on behalf of sub-
+scribing banks, is monitoring an exercise to gather opinions on the legal bases for netting in different juris-
+dictions.
+
+UK regulation
+
+Any person who conducts stock borrowing or lending business in the United Kingdom would generally be car-
+trying on a regulated activity under the terms of the Financial Services and Markets Act 2000 (Regulated
+Activities) Order 2001, and would therefore have to be authorised and supervised under that Act. The stock
+borrower or lender would, as an authorised person, be subject to the provisions of the FSA Handbook, includ-
+ing the Inter-Professional chapter of the Market Conduct Sourcebook. They would also need to have regard
+to the market abuse provisions of the Financial Services and Markets Act 2000, and the related Code of Market
+Conduct issued by the Financial Services Authority (FSA). The Conduct of Business Sourcebook requires a ben-
+eficial owner’s consent to carry on stock lending on its account. The FSA Handbook contains rules, guidance,
+and evidential provisions relevant to the conduct of the firm in relation to the FSA’s High Level Standards.
+
+Stock Borrowing and Lending Code
+
+In addition to the essentially prudential standards set by the FSA, market participants have drawn up a code,
+the Stock Borrowing and Lending Code. This is a code that UK-based participants in the stock borrowing and
+lending markets of both UK domestic and overseas securities observe as a matter of good practice. The Code
+covers matters such as agents, brokers, legal agreements, custody, margins, defaults and close-outs, and con-
+firmations. It is based on the current working practices of leading market practitioners and is kept under reg-
+ular review. The Code does not in any way replace the FSA’s or other authorities’ regulatory requirements; nor
+is it intended to override the internal rules of settlement systems on borrowing or lending transactions. Work
+is currently in progress to produce a UK Annex to the Code that will consider specific aspects of UK law and
+practices in the equity stock lending market. The Code is available on the Bank of England’s website at
+www.bankofengland.co.uk/markets/stockborrowing.pdf.
+Securities Lending and Repo Committee
+
+The Stock Borrowing and Lending Code was produced by the Securities Lending and Repo Committee (SLRQ),
+that is a UK-based committee consisting of market practitioners, members of bodies such as CREST, the United
+Kingdom Debt Management Office, the Inland Revenue, the London Clearing House, the London Stock
+Exchange and the FSA. It provides a forum in which structural (including legal, regulatory, trading, clearing
+and settlement infrastructure, tax, market practice and disclosure) developments in the stock lending and repo
+markets can be discussed, and recommendations made. It also co-ordinates the development of gilt repo and
+equity repo codes; produces and updates the Gilts Annex to the ISMA/TBMA Global Master Repurchase
+Agreement (GMRA); keeps under review the other legal agreements used in the stock lending and repo mar-
+kets; and maintains a sub-group on legal netting. It liaises with similar market bodies and trade organisations
+covering the repo, securities and other financial markets, both in London and internationally. Minutes of SLRC
+meetings are available on the Bank of England’s website, at www.bankofengland.co.uk/markets/slrc/htm. The
+SLRC’s terms of reference are shown in Appendix 2.
+
+The work of the SLRC complements the work of the various market associations, including, in the securities
+lending field, the International Securities Lending Association (ISLA). The objectives of ISLA include repre-
+senting the common interests of securities lenders and assisting in the orderly, efficient and competitive devel-
+opment of the securities lending market. ISLA has helped to produce standard market agreements, including
+the Overseas Securities Lending Agreement (OSLA 1995 version), the Master Equity and Fixed Interest
+Securities Lending Agreement (MEFISLA 1999 version) and the Global Master Securities Lending Agreement
+(GMSLA May 2000).
+Chapter 6 Frequently asked questions
+
+The securities lending business is seen by many non-practitioners as difficult to understand and there are
+many questions asked. Here, we provide answers to some of them.
+
+1 What do people mean when they talk about transfer of title?
+Contracts provide for ownership of lent securities to pass from the lender to the borrower.
+
+A moment's thought about one of the principal motivations for borrowing and lending securities will make the
+necessity for this clear. Say the borrower needs to borrow securities to cover a short position, i.e. to fulfil a
+contract it has entered into to sell on the securities. The buyer is expecting the borrower to pass it owner-
+ship on settlement of that sale, as is normal in a sale. If the borrower cannot do that, the borrower will not
+be able to fulfil its contract with that purchaser. In order to enable it to fulfil its contract, the borrower obtains
+title from the lender and then passes it on to the purchaser, hence ‘transfer of title’.
+
+2 What does this mean for the lender?
+
+The lender needs to be aware that it will be transferring ownership of the securities and of the various con-
+sequences that flow from this.
+
+First, any transfer taxes applicable to a purchase of securities will be due unless an exemption applies. This
+will typically be an issue for the borrower on the initial leg of the transaction. But the lender should recog-
+nise that the return leg of the transaction (i.e. when the borrower transfers securities back to the lender) may
+also attract transfer taxes where they are applicable.
+
+Second, the transfer of the lent securities is in legal terms a disposal of them, and the lender needs to estab-
+lish whether such a disposal will have any consequences. Again this is usually a tax question e.g. are there
+tax consequences for the lender in disposing of the lent securities?
+
+Third, and very importantly, the obligation of the borrower on the return leg of the transaction is to transfer
+equivalent securities back to the lender, not the original securities. In a securities lending transaction, the
+borrower is not ‘holding’ the securities in trust or in custody on behalf of the lender. The borrower actually
+owns them, which is to say that the lender has no right to securities that are in the hands of the borrower.
+Given that the borrower will often have sold on the securities, it is unlikely that the securities would be in
+the borrower's hands).
+
+Fourth, as the lender will cease to be the owner, it will no longer be entitled to income from the securities,
+will not receive notice or proceeds of corporate actions, and will lose all voting rights in respect of the secu-
+rities. The standard documentation sets out contractual mechanisms for putting the owner in a comparable
+economic position in respect of income and corporate actions. Voting rights are transferred and the lender
+must recall equivalent securities from the borrower in order to vote.
+
+3 Why is it called securities ‘lending’ when there is transfer of title?
+
+Because commercially and economically people think of it as lending. Reflecting this, for accounting and cap-
+ital requirements it is usually treated as a loan.
+
+4 Does it mean that the lender gets exactly the same securities back?
+
+No. The borrower's obligation is to return ‘equivalent securities’ i.e. from the same securities issue with the
+same International Securities Identification Number (ISIN). Often it will have sold the original lent securities
+and has to borrow or purchase securities in the market to fulfil its obligation to the lender.
+
+5 Does the lender have a pledge over the collateral?
+
+No. Under standard market agreements and English law, there is usually a transfer of title to the collateral. If
+the collateral is cash, all that means is that there is a cash payment by the borrower into the lender’s bank
+
+account. If the collateral is securities, there is a transfer of title of those securities to the lender.
+
+Many of questions that arise for borrowers in relation to collateral securities also arise for lenders in relation
+to lent securities.
+
+6 Why are there so many different agreements?
+
+Historically the different tax treatment of securities lending in different jurisdictions has driven the need for
+different agreements (such as OSLA — the Overseas Securities Lenders’ Agreement, MEFISLA — the Master
+Equity and Fixed Income Stock Lending Agreement, and so on). Following tax changes it has generally become
+possible to use a single document and the GMSLA - the Global Master Securities Lending Agreement, con-
+solidates the various historical documents.
+
+7 If the securities lending is carried out under English Law, but a custodian appoints a sub-custodian
+in another country, or lends to an entity in another country which does not recognise English Law,
+what happens when something goes wrong?
+
+Simplifying a bit, there are three elements in the application of law to a securities lending transaction. The
+first is the contractual law, the second are the home country laws applying to each party, and the third is the
+law applying to the place where the securities are held.
+
+The contractual law is that which applies to the legal agreement between the parties, which sets out the con-
+tractual terms relating to the lending transaction. Most lending agreements are in practice subject to English
+law, so that any disputes can be settled in the courts of England.
+
+Where a party incorporated in England proposes to conduct a securities lending transaction with a party incor-
+porated in another country, the UK-incorporated party will need to check, normally by obtaining a legal opin-
+ion, that the home country law of the other party will allow the contract to be given effect in accordance with
+its terms. This opinion will normally focus in particular on the close out and netting (set-off) provisions of the
+legal agreement that apply in the insolvency of either party (see section on netting in Chapter 5). This togeth-
+er with the collateralisation and margin arrangements should keep the risks in conducting such business to
+acceptable levels.
+
+As regards the law relating to where the securities are held, securities borrowers need to be certain that they
+have good title to the securities since there is a potential for conflicts of laws or legal uncertainty in this
+respect. The traditional rule for determining the validity of a disposition of securities is to look to the law of
+the place where the securities are located (the ‘lex sitae’ or ‘lex situs’ principle). This is, however, difficult to
+apply if securities are held through a number of intermediaries. The generally preferred approach now is to
+look to the location of the intermediary maintaining the account into which the securities are credited (the
+‘PRIMA’ principle). The EU Collateral Directive as implemented in EU member states applies the PRIMA princi-
+ple, and there are plans to extend it further through the so-called Hague Convention.
+
+Dividends and coupons
+
+1 What happens if the lender has lent a stock over the dividend period?
+
+The ‘borrower’ of stock makes good to the lender the dividend amount that the lender would have received
+had it not lent the stock in the first place. This amount is the gross dividend less any withholding tax that
+the lender would usually incur.
+
+2 Does the lender still receive the dividend or coupon payment?
+
+No. The lender receives from the borrower a ‘manufactured’ dividend or coupon rather than the dividend or
+coupon itself.
+
+3 Does the lender still receive the (manufactured) dividend or coupon payment on the due date?
+
+Yes, the lender’s account should be credited on the due date by the borrower, even if the borrower has not
+actually received it.
+
+4 What happens if the lender has loaned a stock over a scrip dividend record date - does it get the
+relevant cash or stock on the pay date?
+
+The lender should tell the borrower in advance which it would like to receive. Again the borrower must man-
+ufacture the cash or stock for the lender even if it is receiving the other.
+
+5 Who organises that?
+
+It is between the borrower and the lender (or its designated agent or custodian).
+
+6 Why do lenders get higher loan rates if they take cash for a scrip dividend?
+
+Usually there is a financial incentive offered by a company to shareholders that take scrip rather than cash.
+
+Therefore the borrower can take scrip, sell it to give additional income over the cash amount of the dividend,
+and may share this with the lender.
+Collateral and risk management
+
+1 What is collateral?
+
+Financial instruments given by borrowers to lenders to protect them against default over the term of the loan.
+Collateral securities are usually marked to market every day. Borrowers are required to maintain collateral with
+a market value at least equal to the market value of the loaned securities plus some agreed margin ‘haircut’
+(see below).
+
+2 What is a haircut?
+
+‘Haircut’ or margin is the extra collateral that a borrower provides in order to mitigate any adverse movements
+in the value of the loan and value of collateral between the mark-to-market date, and the value of liquidat-
+ed collateral and repurchased loan securities on the default date.
+
+3 How often is the collateral valued?
+
+Usually every day, as with the loaned securities, but it can be more frequent in exceptional circumstances.
+
+4 Is the collateral held in the lender’s name or its agent’s name?
+
+It should be held in the lender’s name, but can be held by an agent to the lender’s order if so desired.
+
+5 Is collateral valued at the individual client level or does the custodian value it at a summed level
+and then allocate the collateral amongst its clients?
+
+Again this can be done either way as desired by lenders and agents.
+6 What happens if the borrower defaults?
+
+The lender liquidates the collateral and repurchases the loaned (lost) securities. Any excess should be returned
+to the borrower or liquidator. Any shortfall should be claimed from the borrower or liquidator.
+
+7 How do lenders get their securities back? How long does it take?
+
+Within the usual settlement cycle for the securities in question (see Chapter 4), after they have been repur-
+chased.
+
+8 Who liquidates the collateral?
+
+Lenders or their agents (if they use them).
+
+9 How do lenders ensure that the liquidation of the collateral is done at market rates?
+
+In a similar manner as they might check on any sales made in the usual course of business. Some agents will
+indemnify lenders against borrower default, in which case they will return the loaned assets and deal with liq-
+
+uidating the collateral themselves.
+
+10 What happens if market prices rise between the borrower defaulting and cash being made available
+following the liquidation of the collateral?
+
+Any shortfall should be claimed from the borrower or its liquidator in insolvency. N.B. Up to a 48-hour win-
+dow is available under the OSLA, MEFISLA and GESLA (see the glossary for definitions) depending on whether
+default takes place within or outside normal business hours. This is extended to 5 days in the new GMSLA.
+
+11 What happens if the markets move such that the collateral held is less than the required collateral
+amount?
+
+Any shortfall should be claimed from the borrower or its liquidator in insolvency, otherwise more collateral
+should be sought. If markets are particularly volatile then intra-day marking to market may be appropriate.
+
+12 How often is the collateral topped up (i.e. marked to market and margin called)?
+Usually every day or as required.
+13 Are the collateral securities and the securities on loan valued at the same time/prices/frequency?
+
+Not always. The collateral and loan securities might be located in different markets and time-zones. Otherwise
+both valuations should be made at least daily.
+14 Is accrued interest included in the calculations of market value for collateral, loans and fees?
+
+The GMSLA provides for the valuation of both securities and collateral to include
+* accrued income
+
+¢ dividend or interest payments declared but not yet due by the issuer
+
+e dividends paid in the form of securities
+
+but not other rights or assets deriving from ownership of the securities or collateral.
+15 What happens if a borrower doesn’t return a stock when called or at maturity?
+
+The lender may decide to expedite a ‘buy-in’, whereby it purchases the unreturned stock in the market and
+invoices the borrower for any costs.
+
+16 Who would pay the overdraft fees if a lender’s fund manager had sold stock and the lender had
+failed to settle the trade because the borrower hadn't returned the stock?
+
+The lender may claim against the borrower for any direct costs incurred. However it should be noted that con-
+sequential loss might not be covered. Where the borrower's failure to redeliver securities to the lender caus-
+es a larger onward transaction to fail, the norm is for the lender to claim only that proportion of the costs
+that relate directly to the loaned securities.
+
+17 What is cash reinvestment?
+
+In many cases, particularly in the United States, stock is loaned against cash collateral. Rather than the bor-
+rower paying a fee, it receives a rebate (e.g. 0.4%) being the interest rate payable on the cash (e.g. 1%) less
+the fee (e.g. 0.6%). In such situations the lender, or their agent, has cash and an obligation to pay this rebate
+to the borrower. The lender therefore reinvests the cash to receive an interest rate (e.g. 1.1%) so that the
+lender receives the fee plus any reinvestment pick-up (e.g. 0.1%) or less any reinvestment shortfall.
+
+The reinvestment market in the US is aptly described as ‘the tail that wags the dog’. The pursuit of income
+in a fairly mature lending market for US securities means that reinvestment opportunities frequently drive loan
+transactions that are little more than a method of raising cash.
+
+18 What are the risks attached to cash reinvestment?
+
+There is the chance that the reinvestment rate achieved is less than the rebate rate. This usually happens in
+rising interest rate environments if the interest rate paid to the borrower is the overnight rate fixed daily and
+reinvestments are for a fixed period (e.g. one month). So, if short-term rates rise during the time that the rein-
+vestment is fixed, the lender can lose.
+
+Also, reinvestments are sometimes made into investments of lower credit quality to achieve returns. If this
+instrument defaults on interest payments or is downgraded by rating agencies, it is likely to fall in value. Most
+reinvestment is made into US Treasury or US Agency mortgage-backed securities, in which cases custodi-
+an/banks will usually indemnify lenders in the case of default.
+
+19 What happens if the assets being held as collateral become worthless?
+
+So long as the borrower has not defaulted too, they will substitute, or top-up collateral to the agreed level
+in the course of the mark-to-market process.
+
+20 What happens if the assets on loan become worthless?
+
+The borrower will ask for collateral back to the agreed level in the course of the mark-to-market process.
+
+21 What is an indemnity?
+
+It is a kind of insurance policy offered to lenders to mitigate risks associated with lending. One of the most
+commonly offered indemnities is against borrower default. Usually, like insurance policies, they cover specif-
+ic events and are not a catchall so, as with insurance policies, read the small print!
+
+22 Who offers them?
+
+Usually custodian banks offer indemnities to their lending customers. Third Party Agents obtain them from
+insurance companies on behalf of lender clients.
+
+23 What strings are attached?
+
+Lenders may be asked to split revenue to give the custodian a larger share, reflecting the value of the
+indemnity.
+24 How important is it to create a set of lending/collateral guidelines before starting to lend rather that
+accepting the standard terms/guidelines?
+
+For a new lender, an agent’s standard terms/guidelines are probably a good place to start. The next step is
+to consider what is and is not appropriate to accept from the standard terms/guidelines in terms of a risk. It
+is the client’s prerogative to alter these guidelines as they see fit.
+
+Operational and logistical
+
+1 What is the difference between overnight and term loans?
+
+Most loans are transacted on an ‘open’ or overnight basis. Sometimes lenders are prepared to guarantee that
+they will maintain the loan over a longer period, but this is fairly rare. In such cases the borrower has cer-
+tainty that lent securities will not get recalled inside the term of the loan. It is more usual that a hedge fund
+borrower will obtain term loans from an investment bank, which will have multiple lenders so that if one
+should recall they can borrow from another.
+
+2 How long are term loans usually on loan for?
+A month would be a typical period, but it depends on the nature of the trade underlying the need to borrow.
+3 How long does it take to recall a stock?
+
+Recalling should be exactly like buying. If a lender gives an instruction by a specific deadline, then it should
+receive the stock back within the usual settlement cycle of the market in question.
+
+Corporate Governance
+
+1 Can lenders vote in an AGM/EGM whilst stock is on loan?
+
+No. Stock lending is in one sense a misnomer: it involves the transfer of title, and with that, all voting rights
+associated with the securities; indeed securities are often borrowed in order to settle an outright sale, so that
+the securities pass onto another outright owner. But borrowers have a contractual obligation to return equiv-
+alent securities to lenders on demand. Lenders therefore treat securities loans as temporary transactions that
+do not affect their desired holding in a stock. In the case of votes, lenders have the choice whether to recall
+equivalent securities in order to vote their entire ‘desired holding’ or to leave stock on loan, forgoing the right
+to vote. (Although, this does not mean that votes are necessarily ‘lost’ in aggregate, as the new owner may
+choose to vote.) If they opt to leave the stock on loan they have no means of controlling or knowing how
+the current owner might vote. Their decision on recalling the stock boils down to whether the benefits of vot-
+ing are greater than those of lending. Investors make their own choices. It is worth noting that returns to
+lenders often increase around key corporate actions.
+
+2 Can lenders recall stock to vote, and does this affect their reputation as lenders?
+
+It is quite common for lenders to retain a buffer when lending stock so they can always go to or vote in an
+AGM/EGM whilst stock is on loan. However if they wish to vote all their holding, they must recall the lent
+securities. If a borrower is still holding the stock (i.e. it has not yet been used to fulfil short-sale obligations)
+lenders may ask them to vote the stock on their behalf.
+
+3 Is it acceptable to borrow stock in order to accumulate a large temporary holding and influence a
+vote?
+
+Borrowing stock for the purpose of accumulating a temporary holding to influence a vote is not a practice
+that most market participants regard as acceptable.
+
+The various lending options for beneficial owners
+
+4 Can lenders loan more stocks from a portfolio that has very little trading/turnover rather than a very
+actively traded portfolio?
+
+Yes, as greater certainty about the stability of the loan is a critical factor for all borrowers.
+
+2 How do custodians decide whose stock they lend if they have many clients that hold a particular
+stock?
+
+They have allocation algorithms, but no two seem to be the same.
+3 What is an exclusive lending relationship?
+
+Where a lender makes available all, or segments of, its assets to a particular borrower or borrowers exclu-
+sively.
+
+4 How is this different to going via a custodian?
+
+It can indeed be done via a custodian, which will do all the necessary administration, etc. Unlike in an exclu-
+sive relationship, the custodian will usually parcel out loans to borrowers on a stock-by-stock basis, with the
+‘algorithm’ making the allocations between lenders.
+
+5 How long do exclusive arrangements normally last?
+
+There is no standard timeframe but many last one year.
+
+6 How does the custodian make money from securities lending?
+
+Mostly they split the income between lenders and themselves.
+
+7 What fees do they normally charge?
+
+Usually the lender gets between 60% and 90%, but percentages vary.
+Appendix 1 A short history of securities lending
+
+Securities lending began with the development of securities trading markets. For example, in the UK market
+from the 19th century, specialist intermediaries sourced gilts for the jobbers or market makers. Collateral, typ-
+ically non-cash, passed between the parties at the end of the trading day and offered protection for the
+lenders. Much of the borrowing facilitated a practice called ‘bond washing’, whereby tax advantages were
+exchanged between parties around record and ex-dividend dates. This was the precursor to tax arbitrage. A
+two-tier market quickly emerged: a security-specific or ‘special’ market, and a more generic financing or ‘gen-
+eral’ market.
+
+The 1960s
+
+As the UK and US securities trading markets developed, so did the securities lending markets. Here are some
+of the key developments that took place in the 1960s:
+
+The first formal equity lending transactions took place in the City of London
+
+An active interdealer market developed in the US (back office to back office)
+
+The increase in general, but particularly block, trading volume in the US equity markets. The
+settlement system continued to be paper-based and this led to large backlogs of settlement fails
+and back offices borrowing securities for settlement cover
+
+US Treasury bond financing expanded — before that the US market had focused on equities
+
+The 1970s
+
+In the 1970s the US market developed and assumed much of the shape that would be recognised today. The
+UK market would not develop to its present form until deregulation following Big Bang in the 1980s. Here are
+some of the key developments that took place in the 1970s:
+
+The establishment of the US Depository Trust Company (DTC) reduced settlement related demand
+but facilitated an increase in trading activity
+
+Trading demand from arbitrageurs increased. Strategies included:
+
+* Convertible bond arbitrage
+
+* Tax Arbitrage
+
+* Initial Public Offering (IPO)-related trading
+
+The US custodian banks began to lend securities on behalf of their clients:
+
+° Endowments
+
+e Insurance Companies
+
+e Pension Funds (amendments to ERISA legislation in 1981 permitted lending in accordance with
+guidelines)
+
+Treasury dealers began ‘matched book’ repo trading — thereby generating borrowing demand
+
+The US Treasury bond repo market became a key part of the money markets
+
+The US non-cash ‘bonds borrow’ market promoted broker-to-bank business:
+
+* Cash collateral was a problem for banks wishing to avoid capital charges
+
+e Using long inventory saved the borrowers money
+
+e Using non-cash collateral reduced their balance sheet when compared to cash
+
+The use of derivatives and leverage in transactions expanded because returns could be increased
+and banks were willing to extend the necessary finance
+
+The creation of ‘finders’ — specialists that lacked capital but had significant relationships and could
+find the securities that borrowers needed — emerged
+
+The first cross border or international securities lending transactions took place
+
+© Typically offshore from the US or the UK
+
+¢ Initially involving experienced traders using trading techniques that had been proven over time in
+their local markets
+
+° Several key advantages such as time zone, and a high concentration of international fund
+management expertise, put the United Kingdom at the centre of international securities lending
+
+The 1980s
+
+Key developments included:
+
+Cross border securities lending grew rapidly, driven partly by the international expansion of the US
+broker dealers and custodian banks
+
+Institutional lending of overseas securities increased because US and UK lenders were willing to
+expand their programmes from being domestic only
+
+Increases in the debt of most Gio governments encouraged the growth of government bond lending
+and repo markets
+
+Trading demand continued to grow, driven by a variety of strategies:
+
+© The international derivatives markets expanded, with many derivatives hedging strategies
+requiring short coverage e.g. index arbitrage
+° Tax arbitrage — the tax anomalies available to exploit internationally were numerous
+e Hedge funds were established in significant numbers
+Some institutional lenders began to enter into exclusive lending relationships with borrowers
+Securities settlement systems introduced book entry settlement and were able to process greater
+volumes:
+° The Group of 30 report by an international group of experts stated that securities lending should
+be encouraged as a means of expediting efficient settlement
+
+* On May 17th 1982, Drysdale Securities, a minor bond dealer, collapsed. Drysdale had over $2 billion
+in US Treasury loans outstanding when it defaulted. Institutional supply temporarily dried up
+following the Drysdale affair, particularly via the custodians, due to legal uncertainties, the US
+Government Securities Act of 1986 followed. Other changes included the BMA developing the
+standardised securities lending legal agreement, a specification of collateral margins, collateralisation
+of accrued interest and disclosure of borrowers and lenders by custodian banks.
+
+¢ In the autumn of 1988 Robert Maxwell authorised securities lending transactions from the Mirror
+Group Newspaper pension fund. It was not until after his death on 5th November 1991 that the
+consequences of these and subsequent transactions became apparent to the authorities, the market
+and the pensioners. As the Department of Trade and Industry (‘DTI’) puts it in a chronology of
+events on www.dti.gov.uk:
+
+‘From November 1988, Mr Robert Maxwell therefore began to make use of the more marketable blue chip
+shares held by the pension funds and First Tokyo Index Trust as collateral for bank borrowings to the private
+side; this was described as ‘stock lending’ to make it appear to be the legitimate practice of lending securi-
+ties to market makers as part of ordinary share dealing activities. Cash continued to be borrowed from the
+pension funds by the private side without providing any collateral to the pension funds for these loans.’
+
+The 1990s
+
+Securities lending volumes again rose sharply in most markets throughout the decade. Key developments
+included:
+
+© Growing demand to borrow securities to support hedging and trading strategies
+© Technological advances, including computer processing power, access to real time price
+information and automated trade execution made possible new trading strategies, such as statistical
+arbitrage
+e Further rapid growth in hedge fund assets under management, despite a pause following the
+collapse of Long Term Capital Management in 1999
+e Investment banks developed global prime brokerage operations to support the activities of hedge
+fund clients, including securities lending and financing
+
+¢ The removal of many regulatory, tax and structural barriers to securities lending throughout the
+world. Some of the major changes and developments in the repo market were driven by the removal
+of specific legal or regulatory barriers, e.g.
+© 1993 French repo
+© 1996 Japanese repo
+* 1996 UK repo
+© 1997 Italian buy-sell back
+* 1998 Swiss repo
+
+e In 1994 the sharp increase in US short-term interest rates led to losses for many securities lenders
+that had taken US dollar cash as collateral and were reinvesting it in a variety of money market
+instruments. In many cases their agents, typically custodian banks, compensated their underlying
+clients for these losses even though they were not legally obliged to do so. Lessons included
+improved risk management procedures, better documentation and clear reinvestment guidelines.
+
+e During the Asian crisis in 1997-98, the authorities in a number of countries imposed restrictions on
+short selling, drawing a link with currency speculation, e.g. Malaysia and Thailand both in August
+1997
+
+2000 and beyond
+
+Trends include:
+
+¢ The market becoming more segmented:
+© Specialist regional players developing
+© Outsourcing developing, e.g. third party securities lending agents
+Tax arbitrage opportunities disappearing as tax harmonisation occurs
+Continuing deregulation and tax changes making possible the establishment of new securities
+lending markets, e.g. in Brazil, India, Korea, Taiwan
+¢ New transaction types:
+e Equity repo — much more accepted and widespread than in 1990s
+© Contracts for Differences (‘CFDs’)
+© Total return swaps
+
+e Prime brokers using CFDs and total return swaps to allow clients to take positions in equity and
+bond derivatives rather than the underlying securities (‘synthetic prime brokerage’)
+
+Fewer Initial Public Offering (‘IPO’) and Mergers and Acquisition (‘M&A’) opportunities in 2002 and
+2003 with fewer ‘hot’ stocks. The rate of growth of equity stock lending slowed but the
+development of traded credit and corporate bond markets encouraged growth in the fixed income
+part of the business
+Appendix 2 Terms of Reference of the SLRC
+
+The committee will:
+
+Provide a forum in which structural (including legal, regulatory, trading, clearing and settlement
+infrastructure, tax, market practice and disclosure) developments in the stock lending and repo
+markets can be discussed, and recommendations made, by practitioners, infrastructure providers and
+the authorities.
+
+Co-ordinate the development of the Stock Borrowing and Lending Code of Guidance. This is a
+summary of the basic procedures that UK-based participants in stock borrowing/lending of both UK
+domestic and overseas securities observe as a matter of good practice.
+
+Co-ordinate the development of the Gilt and Equity Repo Codes of Best Practice. These codes set
+out standards of good practice for repo. They are drawn up on the basis of practice in existing repo
+markets in London observed by practitioners and the authorities and are kept under review.
+
+Produce and update the Gilts Annex to the ISMA/TBMA Global Master Repurchase Agreement (GMRA).
+Liaise, where appropriate, with similar market bodies and trade organisations covering the repo and
+securities markets, and other financial markets, in London and other financial centres.
+
+Maintain a sub-group on legal netting and, if required, create other sub-groups to research and
+manage specific topics.
+
+Discussions between members during the course of meetings will be held to be confidential, although sum-
+maries of these discussions will be published, normally within one month of the meeting, at
+http://www.bankofengland.co.uk/markets/sIrc.htm
+
+Membership
+
+The Committee is chaired and administered by the Bank of England.
+
+The Committee comprises market participants representing the main trade associations involved in
+the UK and international repo and stock lending markets, (currently International Securities Lending
+Association; International Securities Market Association; Bond Market Association; European Repo
+Council, London Investment Banking Association; London Money Market Association; British Bankers’
+Association), infrastructure providers and the UK authorities.
+
+Membership of the Committee is to be decided by the Chairman. The Chairman may invite additional
+ad hoc representatives from ‘knowledgeable parties’ if thought appropriate.
+Appendix 3 Glossary
+
+Every industry has its own business terms. Securities lending is no exception. Here we list the more esoteric
+terms mentioned in this booklet and some that might be encountered whilst exploring the market. Note that
+some terms may have different meanings in contexts other than securities lending.
+
+Accrued interest: Coupon interest that is earned on a bond from the last coupon date to the present date.
+
+Agent: A party to a loan transaction that acts on behalf of a client. The agent typically does not take in risk
+in a transaction. See ‘Indemnity’.
+
+All-in dividend: The sum of the manufactured dividend plus the fee to be paid by the borrower to the lender,
+expressed as a percentage of the dividend of the stock on loan.
+
+All-in price: Market price of a bond, plus accrued interest. Generally rounded to the nearest 0.01. Also known
+as ‘dirty price’.
+
+Basis point: One one-hundredth of a percent or 0.01%.
+
+Bearer securities: Securities that are not registered to any particular party and hence are payable to the party
+that is in possession of them.
+
+Beneficial owner: A party that is entitled to the rights of ownership of property. In the context of securities,
+the term is usually used to distinguish this party from the registered holder (a nominee, for example) that
+holds the securities for the beneficial owner.
+
+Benefit: Any entitlement due to a stock or shareholder as a result of purchasing or holding securities, includ-
+ing the right to any dividend, rights issue, scrip issue, etc. made by the issuer. In the case of loaned securi-
+ties or collateral, benefits are passed back to the lender or borrower (as appropriate), usually by way of a
+manufactured dividend or the return of equivalent securities or collateral.
+
+BMA: The Bond Market Association — is a US-based industry organisation of participants involved in certain
+sectors of the bond markets. The BMA establishes non-binding standards of business conduct in the US fixed-
+income securities markets. Formerly known as the Public Securities Association or PSA.
+
+Buy-in: The practice whereby a lender of securities enters the open market to buy securities to replace those
+that have not been returned by a borrower. Strict market practices govern buy-ins. Buy-ins may be enforced
+by market authorities in some jurisdictions.
+
+Buy/Sell, Sell/Buy: Types of bond transactions that, in economic substance, replicate reverse repos, and repos
+respectively. These transactions consist of a purchase (or sale) of a security versus cash with a forward com-
+mitment to sell back (or buy back) the securities. Used as an alternative to repos/reverses.
+
+Carry: Difference between interest return on securities held and financing costs:
+Negative carry: Net cost incurred when financing cost exceeds yield on securities that are
+being financed.
+Positive carry: Net gain earned when financing cost is less than yield on financed securities.
+
+Cash-orientated repo: Transaction motivated by the need of one party to invest cash and the need of the other
+to borrow. See also ‘Securities-orientated repo’.
+
+Cash trade: A non-financing purchase or sale of securities.
+
+Clear: To complete a trade, i.e. when the seller delivers securities and the buyer delivers funds in correct form.
+A trade fails when proper delivery requirements are not satisfied.
+
+Close-out (and) netting: An arrangement to settle all existing obligations to and claims on a counterpart falling
+under that arrangement by one single net payment, immediately upon the occurrence of a defined event of
+default.
+
+Collateral: Securities or cash delivered by a borrower to a lender to support a loan of securities or cash.
+
+Contract for Differences (CFD): An OTC derivative transaction that enables one party to gain economic expo-
+sure to the price movement of a security (bull or bear). Writers of CFDs hedge by taking positions in the under-
+lying securities, making efficient securities financing or borrowing key.
+
+Corporate action: A corporate event in relation to which the holder of the security must or may make an elec-
+tion or take some other action in order to secure its entitlement and/or to opt for a particular form of enti-
+tlement (see also equivalent).
+Corporate event: An event in relation to a security as a result of which the holder will or may become enti-
+
+tled to:
+
+* a benefit (dividend, rights issue etc.); or
+
+* securities other than those which he held prior to that event (takeover offer, scheme of arrangement,
+conversion, redemption, etc). This type of corporate event is also known as a stock situation.
+
+Conduit borrower: See intermediary.
+
+Custodian: An entity that holds securities of any type for investors, effecting receipts and deliveries, and sup-
+plying appropriate reporting.
+
+Daylight exposure: The period in the day when one party to a trade has a temporary credit exposure to the
+other due to one party having settled before the other. It would normally mean that the loan had settled but
+the delivery of collateral would settle at a later time (although there would also be exposure if settlement
+happened in reverse). The period extends from the point of settlement of the first side of the trade to the
+time of settlement of the other. It occurs because the two sides of the trade are not linked in many settle-
+ment systems or settlement of loan and collateral take place in different systems, possibly in different time
+zones.
+
+Deliver-out repo: ‘Standard’ two-party repo, where the party receiving cash delivers bonds to the cash
+provider.
+
+Delivery-by-value (DBV): A mechanism in some settlement systems (including CREST) whereby a member may
+borrow or lend cash overnight against collateral. The system automatically selects and delivers collateral secu-
+tities, meeting pre-determined criteria to the value of the cash (plus a margin) from the account of the cash
+borrower to the account of the cash lender and reverses the transaction the following morning.
+
+Distributions: Entitlements arising on securities that are loaned out, e.g. dividends, interest, and non-cash dis-
+tributions.
+
+DVP (Delivery-versus-payment): The simultaneous delivery of securities against the payment of funds within
+a securities settlement system.
+
+ERISA: The Employee Retirement Income Security Act, a US law governing private US pension plan activity,
+introduced in 1974 and amended in 1981 to permit plans to lend securities in accordance with specific guide-
+lines.
+
+Equivalent (securities or collateral): A term meaning that the securities or collateral returned must be of an
+identical type, nominal value, description and amount to those originally provided. If, during the term of a
+loan, there is a corporate action in relation to the loaned securities, the lender is normally entitled to speci-
+fy at that time the form in which he wishes to receive equivalent securities or collateral on termination of the
+loan. The legal agreement will also specify the form in which equivalent securities or collateral are to be
+returned in the case of other corporate events.
+
+Escrow: See Tri Party.
+
+Fail: The failure to deliver cash or collateral in time for the settlement of a transaction.
+
+Free-of-payment delivery: Delivery of securities with no corresponding payment of funds.
+
+G7: The Group of Seven, i.e. US, France, Japan, United Kingdom, Germany, Italy and Canada.
+
+Gio: The Group of Ten, i.e. US, France, Japan, United Kingdom, Germany, Italy, Canada, the Netherlands,
+Sweden and Switzerland.
+
+General Collateral (GC): Securities that are not ‘special’ (see below) in the market and may be used, typical-
+ly, to collateralise cash borrowings. Also known as ‘stock collateral’.
+
+Gilt-Edged Securities (Gilts): United Kingdom government bonds.
+
+Gilt-Edged Securities Lending Agreement (GESLA): see Master Gilt Edged Securities Lending Agreement.
+Global Master Securities Lending Agreement (GMSLA): The Global Master Securities Lending Agreement has
+been developed as a market standard for securities lending of bonds and equities internationally. It was draft-
+
+ed with a view to complying with English law.
+
+Gross-paying securities: Securities on which interest or other distributions are paid without any taxes being
+withheld.
+
+Haircut: Initial margin on a repo transaction. Generally expressed as a percentage of the market price.
+Hedge fund: A leveraged investment fund that engages in trading and hedging strategies, frequently using
+leverage.
+
+Hot/hard stock: A particular security that is in high demand in relation to its availability in the market and is
+thus relatively expensive or difficult to borrow.
+
+Hold in custody: An arrangement under which securities are not physically delivered to the borrower (lender)
+but are simply segregated by the lender in an internal customer account.
+
+Icing/putting stock on hold: The practice whereby a lender holds securities at a borrower’s request in antici-
+pation of that borrower taking delivery.
+
+Indemnity: A form of guarantee or insurance, frequently offered by agents. Terms vary significantly and the
+value of the indemnity does also.
+
+Interdealer broker: Agent or intermediary that is paid a commission to bring buyers and sellers together. The
+broker’s commission may be paid either by the initiator of the transaction or by both counterparts.
+
+Intermediary: A party that borrows a security in order to on-deliver it to a client, rather than borrowing it for
+its own in-house needs. Also known as a conduit borrower.
+
+International Securities Lending Association (ISLA): A trade association for securities lending market practi-
+tioners.
+
+ISMA: The Zurich-based International Securities Market Association is the self-regulatory organisation and
+trade association for the international securities market. ISMA sets standards of business conduct in the glob-
+al securities markets, advises regulators on market practices and provides educational opportunities for mar-
+ket participants.
+
+London Investment Banking Association (LIBA): The principal trade association in the UK for firms active in
+the investment banking and securities industry. LIBA members are generally borrowers and intermediaries in
+the stock lending market.
+
+Manufactured dividends: When securities that have been lent out pay a cash dividend, the borrower of the
+securities is in general contractually required to pass the distribution back to the lender of the securities. This
+payment ‘pass-through’ is known as a manufactured dividend.
+
+Margin, initial: Refers to the excess of cash over securities or securities over cash in a repo/reverse repo,
+sell/buy-buy/sell, or securities lending transaction. One party may require an initial margin due to the per-
+ceived credit risk of the counterpart.
+
+Margin, variation: Once a repo or securities lending transaction has settled, the variation margin refers to the
+band within which the value of the security used as collateral may fluctuate before triggering a margin call.
+Variation margin may be expressed either in percentage or absolute currency terms.
+
+Margin call: A request by one party in a transaction for the initial margin to be reinstated or to restore the
+original cash/securities ratio to parity.
+
+Mark-to-market: The act of revaluing the securities collateral in a repo or securities lending transaction to cur-
+rent market values. Standard practice is to mark to market daily.
+
+Market value: The value of loan securities or collateral as determined using the last (or latest available) sale
+price on the principal exchange where the instrument was traded or, if not so traded, using the most recent
+bid or offered prices.
+
+Master Equity and Fixed Interest Stock Lending Agreement (MEFISLA): This was developed as a market stan-
+dard agreement under English law for stock lending prior to the creation of the Global Master Securities
+Lending Agreement. It has a legal opinion from Queen’s Counsel and has been mainly, but not exclusively,
+used for lending UK securities excluding gilts.
+
+Master Gilt Edged Stock Lending Agreement (GESLA): The Agreement was developed as a market standard
+exclusively for lending UK gilt-edged securities. It was drafted with a view to complying with English law and
+has a legal opinion from Queen's Counsel.
+
+Matched/Mismatched book: Refers to the interest rate arbitrage book that a repo trader may run. By match-
+ing or mismatching maturities, rates, currencies, or margins, the repo trader takes market risk in search of
+returns.
+
+Net paying securities: Securities on which interest or other distributions are paid net of withholding taxes.
+Open transactions: Trades done with no fixed maturity date.
+
+Overseas Securities Lenders’ Agreement (OSLA): The Agreement was developed as a market standard for stock
+lending prior to the creation of the Global Master Securities Lending Agreement. It was drafted with a view
+to complying with English law and has a legal opinion from Queen’s Counsel. Intended for use by UK-based
+parties lending overseas securities (i.e. excluding UK securities and gilts), it has since become the most wide-
+ly used global master agreement.
+
+Pair off: The netting of cash and securities in the settlement of two trades in the same security for the same
+value date. Pairing off allows for settlement of net differences.
+
+Partialling: Market practice or a specific agreement between counterparts that allows a part-delivery against
+an obligation to deliver securities.
+
+Pay-for-hold: The practice of paying a fee to the lender to hold securities for a particular borrower until the
+borrower is able to take delivery.
+
+Prime brokerage: A service offered to clients — typically hedge funds — by investment banks to support their
+trading, investment and hedging activities. The service consists of clearing, custody, securities lending, and
+financing arrangements.
+
+Principal: A party to a loan transaction that acts on its own behalf or substitutes its own risk for that of its
+client when trading.
+
+Proprietary trading: Trading activity conducted by an investment bank for its own account rather than for its
+clients.
+
+PSA Public Securities Association: The former name of the BMA.
+
+Rebate rate: The interest paid on the cash side of securities lending transactions. A rebate rate of interest
+implies a fee for the loan of securities and is therefore regarded as a discounted rate of interest.
+
+Recall: A request by a lender for the return of securities from a borrower.
+
+Repo: Transaction whereby one party sells securities to another party and agrees to repurchase the securities
+at a future date at a fixed price.
+
+Repo rate: The interest rate paid on the cash side of a repo/reverse transaction.
+
+Repo (or reverse) to maturity: A repo or reverse repo that matures on the maturity date of the security being
+traded.
+
+Repricing: Occurs when the market value of a security in a repo or securities lending transaction changes and
+the parties to the transaction agree to adjust the amount of securities or cash in a transaction to the correct
+margin level.
+
+Return: Occurs when the borrower of securities returns them to the lender.
+
+Revaluation (‘reval’): See Repricing.
+
+Reverse Repo: Transaction whereby one party purchases securities from another party and agrees to resell the
+securities at a future date at a fixed price.
+
+Roll: To renew a trade at its maturity.
+
+Securities-orientated repo trade: Transaction motivated by the desire of one counterpart to borrow securities
+and of the other to lend them. See also Cash-orientated repo trade.
+
+Shaping: A practice whereby delivery of a large amount of a security may be made in several smaller blocks
+so as to reduce the potential consequences of a fail. May be especially useful where partialling is not accept-
+able.
+
+Specials: Securities that for several reasons are sought after in the market by borrowers. Holders of special
+securities will be able to earn incremental income on the securities by lending them out via repo, sell/buy,
+or securities lending transactions.
+
+Spot: Standard non-dollar repo settlement two business days forward. This is a money market convention.
+
+Stock situation: See corporate event.
+Substitution: The practice in which a lender of general collateral recalls securities from a borrower and replaces
+them with other securities of the same value.
+
+TBMA/ISMA Global Master Repurchase Agreement (GMRA): The market-standard document used for repo trad-
+ing. The GMRA, whose original November 1992 version was based on the PSA Master Repurchase Agreement,
+was revised in November 1995 and again in October 2000.
+
+Term transactions: Trades with a fixed maturity date.
+
+Third-party lending: A system whereby an institution lends directly to a borrower and retains decision-mak-
+ing power, while all administration (settlement, collateral, monitoring and so on) is handled by a third party,
+such as a global custodian.
+
+Tri Party: The provision of collateral management services, including marking to market, repricing and deliv-
+ery, by a third party. Also known as escrow.
+
+Tri Party Repo: Repo used for funding/investment purposes in which the trading counterparts deliver bonds
+and cash to an independent custodian bank or central securities depository (the ‘Tri Party Custodian’). The Tri
+Party Custodian is responsible for ensuring the maintenance of adequate collateral value, both at the outset
+of a trade and over its term. It also marks the collateral to market daily and makes margin calls on either
+counterpart, as required. Tri Party Repo reduces the operational and systems barriers to participating in the
+repo markets.
+Reference sources
+
+The web contains a lot of information on securities lending. A simple Google search on ‘securities lending’
+
+finds 580,000 results.
+
+All of the major practitioners have sections of their websites dedicated to securities lending, repo, prime bro-
+
+kerage, etc.
+
+Below, we list in alphabetical order, some of the websites that could prove to be useful reference sources:
+
+ABI
+
+Bank of England
+Barrie &Hibbert
+BBA
+
+BIS
+
+BMA
+
+CREST
+
+DTI
+
+FSA
+
+loSco
+
+ISLA
+
+ISMA
+
+LSE
+
+NAPF
+
+PASLA
+
+RMA
+
+Securities Finance Systems
+
+Spitalfields Advisors
+
+www.abi.org.uk
+www.bankofengland.co.uk
+www.barrhibb.com
+www.bba.org.uk
+
+www.bis.org
+www.bondmarkets.com
+www.crest.co.uk
+www.dti.gov.uk
+www.fsa.gov.uk
+www.iosco.org
+
+www.isla.co.uk
+
+www.isma.org
+www.londonstockexchange.com
+www.napf.co.uk
+www.paslaonline.com
+www.rmahq.org
+www.performanceexplorer.com
+
+www.spitalfieldsadvisors.com
+An Introduction to Securities Lending
+
+Securities lending provides liquidity to the equity, bond and money markets,
+placing it at the heart of today’s financial system. The increase in liquidity
+reduces the cost of trading, thereby increasing market efficiency and
+benefiting all.
+
+Securities lending markets allow market participants to sell securities that they
+do not own in the confidence that they can be borrowed prior to settlement.
+They are also used for financing, through the lending of securities against
+cash, forming an important part of the money markets. The ability to lend and
+borrow securities freely underpins the services that securities dealers offer
+their customers and the trading strategies of dealers, hedge funds and other
+asset managers. On the lending side, securities lending forms a growing part
+of the revenue of institutional investors, custodian banks and the prime
+brokerage arms of investment banks.
+
+This publication aims to describe these markets, with an emphasis towards
+the United Kingdom, although UK markets are highly international in terms of
+both participation and securities traded. The intended audience is not market
+practitioners but others with some interest in securities lending, including
+trustees of pension or other funds that already lend their securities or might
+consider doing so, managers of companies whose securities are lent, financial
+journalists, the authorities and other interested parties.
+
+© Mark C. Faulkner
+
+An Introduction to Securities Lending
+

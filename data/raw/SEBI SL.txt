@@ -1,0 +1,409 @@
+8/15/26, 12:46 AM sebi.gov.in/sebi_data/docfiles/21208_t.html
+
+S35 anda uftryft six fata at
+
+a: Securities and Exchange Board of India
+
+Sat ves, siar wet wracters, siat (ge), Was - 400 051
+
+SEBI Bhavan, Bandra Kurla Complex, Bandra (E), Mumbai— 400 051
+
+SECURITIES LENDING SCHEME
+
+1. PRELIMINARY
+(1) This scheme shall be called the Securities Lending Scheme, 1997
+
+2. APPLICABILITY
+
+(1) It shall come into force on eth February 1997.
+3. DEFINITIONS
+(1) In this scheme, unless the context otherwise requires :-
+
+(a.) "approved intermediary" means a person duly registered by the Board under the guidelines/scheme
+through whom the lender will deposit the securities for lending and the borrower will borrow the securities;
+
+(b.) "Board" means the Securities and Exchange Board of India (SEBI) established under Section 3 of the
+Securities and Exchange Board of India Act, 1992;
+
+(c.) "borrower" means a person who borrows the securities under the scheme through an approved
+intermediary;
+
+(d.) "corporate benefits” shall include dividends(gross), rights, bonus, redemption benefits, interest, or any
+other right or benefit accruing on the securities lent;
+
+(e.) "lender" means a person who deposits the securities registered in his name or in the name of any other
+person duly authorised on his behalf with an approved intermediary for the purpose of lending under the
+scheme;
+
+(f.) "securities" has the meaning assigned to it in Section 2 of the Securities Contracts (Regulation) Act,
+1956;
+
+(g.) "scheme" means Securities Lending Scheme, 1997 for lending of securities through an approved
+intermediary to a borrower under an agreement for a specified period with the condition that the borrower
+will return equivalent securities of the same type or class at the end of the specified period along with the
+corporate benefits accruing on the securities borrowed.
+
+2. Words and expression used and not defined for the purpose of this Scheme but defined in the Securities
+Contracts (regulation) Act, 1956 or SEBI Act shall have the meanings respectively assigned to them in that
+Act or rule and regulations made thereunder.
+
+4.SCHEME
+
+1. The lender shall enter into an agreement with the approved intermediary for depositing the securities
+for the purpose of lending through approved intermediary as per the scheme and the borrower shall
+enter into an agreement with the approved intermediary for the purpose of borrowing of securities
+and as such there shall be no direct agreement between the lender and the borrower for the lending or
+borrowing of securities.
+
+2. The agreement between the lender and the approved intermediary shall provide that when the lender
+has deposited the securities with the approved intermediary under the scheme, the beneficial interest
+shall continue to remain with the lender and all the corporate benefits shall accrue to the lender.
+
+3. The lender shall be entitled to deposit only those securities registered in his name or in the name of
+any other person duly authorised on his behalf with the ‘approved intermediary’ for the purpose of
+lending.
+
+4. The lending of securities under the scheme through an approved intermediary and the return of the
+equivalent securities of the same type and class by the borrower shall not be treated as disposal of
+the securities.
+
+1. The approved intermediary shall issue a receipt to the lender acknowledging the deposit of the
+securities by the lender.
+
+2. The approved intermediary shall unless otherwise provided in the agreement with the lender,
+guarantee the return of the equivalent securities of the same type and class to the lender along with
+the corporate benefits accrued on them during the tenure of the borrowing. Even in case of failure of
+the borrower to return the securities or corporate benefits the approved intermediary shall be liable
+for making good the loss caused to the lender.
+
+3. The approved intermediary may retain the securities deposited by the lender in its custody as a
+trustee on behalf of the lender.
+
+https://www.sebi.gov.in/sebi_data/docfiles/21208_t.html
+8/15/26, 12:46 AM sebi.gov.in/sebi_data/docfiles/21208_t.html
+
+4. The approved intermediary shall in accordance with the terms of the agreement entered into with the
+lender, be entitled to lend the securities deposited by the lender to the borrower from time to time.
+
+5. Under the scheme, the title of the securities lent to the borrower shall vest with the borrower and the
+borrower shall be entitled to deal with or dispose of the securities borrowed in any manner
+whatsoever.
+
+6. The agreement between the borrower and the approved intermediary shall inter alia provide that the
+borrower shall have an obligation to return, the equivalent number of securities of the same type and
+class borrowed, to the approved intermediary within the time specified in the agreement along with all
+the corporate benefits which have accrued thereon during the period of borrowing.
+
+(11)The agreement between the lender and the approved intermediary and the borrower and the approved
+intermediary, shall also provide for the following terms and conditions :-
+
+. the period of depositing/lending of securities,
+
+. charges or fees for depositing/lending and borrowing,
+
+. collateral securities for borrowing,
+
+. provisions for the return including premature return of the securities deposited or lent; and
+. mechanism for resolution of the disputes through arbitration.
+
+aaa o7
+
+=
+
+. The borrower shall not be entitled to discharge his liabilities of returning the equivalent securities
+
+through payment in cash or kind.
+
+2. The approved intermediary shall be entitled to receive from the borrower collateral security and fees
+for lending the securities.
+
+3. The borrower shall deposit the collateral securities with the approved intermediary in the form of
+cash, bank guarantee, Government securities or certificate of deposits or other securities as may be
+agreed upon with the approved intermediary for the purpose of ensuring the return of the securities.
+
+4. When the approved intermediary returns securities to the lender, the approved intermediary shall
+issue a receipt to the lender.
+
+5. The approved intermediary shall maintain a complete record of the securities deposited by the lender,
+securities lent to the borrower, the securities received from the borrower and the securities returned
+to the lender by the approved intermediary.
+
+6.In the event of the failure of the borrower to return the securities in terms of the agreement, the
+borrower shall become a defaulter and the approved intermediary shall have the right to liquidate the
+collateral deposited with it, in order to purchase from the market the equivalent securities of the same
+class and type for purpose of returning the equivalent securities to the lender. The approved
+intermediary shall be entitled to take any action as deemed appropriate against the defaulting
+borrower to make good its loss, if any.
+
+7. The approved intermediary shall notify defaults by any borrower to the Board, the concerned stock
+
+exchange and the concerned authorities for initiation of appropriate action against the defaulter.
+
+5. ELIGIBILITY CRITERIA FOR APPROVED INTERMEDIARY No person shall act as an approved intermediary
+unless a certificate of registration has been obtained from the Board.
+
+For the grant of a certificate of registration the Board shall take into account the following:
+a. whether the applicant is a person with minimum networth of Rs.50 crores;
+
+a. if the applicant is a clearing house or a clearing corporation and it has the networth specified by the
+Board after consulting the stock exchange;
+
+a. whether the applicant has adequate infrastructure facilities like office space, equipment and
+manpower experienced in dealing in securities to effectively discharge its activities.
+
+6. OBLIGATIONS AND RESPONSIBILITIES OF APPROVED INTERMEDIARY An approved intermediary shall
+comply with the following obligations and responsibilities:- (1) The approved intermediary shall abide by
+the scheme and the guidelines issued by the Board from time to time with respect to its activity of
+securities lending.
+
+(2) The approved intermediary shall comply with the requirement of eligibility criteria for the lender and the
+borrower with the eligibility criteria, if, specified by the Board.
+
+(3) The approved intermediary shall specify in the respective agreement the fees payable to the lender and
+the fee to be charged from the borrower.
+
+(4) The approved intermediary shall specify the amount and type of collateral acceptable for the purpose of
+securities lending as well as the norms for the valuation of securities. It may also specify the mechanism of
+sharing the income on collateral with the borrower.
+
+(5) The approved intermediary at the request of lender shall issue a receipt acknowledging the deposit of
+the securities by the lender. The receipt shall include the complete details of securities deposited such as
+name of security, quantity, face value, certificate number and folio number of the lender along with the date
+from when the lender has become the registered holder of the security. Similarly, when securities are
+returned to the lender by approved intermediary, it shall issue a receipt containing the above details to
+enable the lender to use the same as a proof of continuity of his holdings.
+
+(6) The approved intermediary shall maintain a complete record of the securities deposited by the lender,
+
+securities lent to the borrower, the securities received from the borrower and the securities returned to the
+
+lender by the approved intermediary. The records of the approved intermediary shall be open for inspection
+
+by the Board or any other person duly authorised by the Board for this purpose.
+https://www.sebi.gov.in/sebi_data/docfiles/21208_t.html
+8/15/26, 12:46 AM
+
+sebi.gov.in/sebi_data/docfiles/21208_t.html
+
+(7) The approved intermediary shall maintain and make available to the Board such _ information,
+documents, returns and reports as may be specified from time to time.
+
+(8) The approved intermediary shall abide by the code of conduct as may be specified by the Board.
+
+(9) Nothing in this scheme shall exempt the approved intermediary from discharging any obligations placed
+on it by any law, regulations and guidelines.
+
+7. GUIDELINES FOR APPROVED INTERMEDIARIES
+
+Terms of Registration :
+
+a. The registration shall be for an initial period of three years.
+
+b. The approved intermediary as a condition of registration shall be required to pay fees as specified by the
+Board.
+
+c. The Board shall have the right to suspend/cancel the registration of the approved intermediary in case of
+violation of the terms of the scheme.
+
+d. Notwithstanding anything contained above, no action shall be initiated by the Board without following the
+principles of natural justice.
+
+ANNEXURE ‘B’
+
+SCHEDULE OF FEES
+
+The Securities Lending Scheme provides for registration of approved intermediaries.
+
+The registration shall be valid for 3 years and can be renewed thereafter.
+
+The application fee shall be non-refundable - Rs.10,000/-.
+
+The initial registration fee shall be Rs.10 lakhs. On renewal after 3 years, the renewal fee shall be Rs.5 lakhs.
+The annual fee shall be Rs.2 lakhs per annum.
+
+The annual fee shall be payable yearly in advance and in the first instance should be payable (pro-rata) for
+
+OakRwWNnN>
+
+the financial year ending 31S March 1998.
+
+Approved intermediaries are requested to send the fee payable, as stated above by means of a demand draft
+favouring "Securities and Exchange Board of India", payable at Bombay.
+
+. Areceipt shall be sent to the approved intermediaries after the realisation of the demand draft.
+
+™
+
+foe)
+
+ANNEXURE ‘C’
+CODE OF CONDUCT FOR APPROVED INTERMEDIARIES
+
+An approved intermediary will be deemed to be guilty of misconduct or unprofessional conduct if it violates
+intentionally or otherwise any of the following provisions of the Code of Conduct:
+
+1. The approved intermediary herein agrees and undertakes to perform its duties as an approved intermediary
+
+with the highest standards of integrity and fairness in all its dealings.
+
+2. The approved intermediary shall abide by the obligation as specified under the securities lending scheme and
+the terms of the agreement entered into by the approved intermediary with the lender / borrower.
+
+. The approved intermediary shall inform the client before taking up any assignment that it is obliged to comply
+with the Code of Conduct and it shall deliver a copy of the Code of Conduct to its client, if the client is not
+aware of the same or does not have it.
+
+4. The approved intermediary shall maintain true and correct record of the securities lending transactions
+
+undertaken by it under the scheme and in particular the records in respect of:-
+
+wo
+
+the securities held by it on behalf of the lenders,
+
+the securities lent by it to the borrowers,
+
+the time and tenure of such lending,
+
+the return of equivalent security by the borrower after the tenure of lending to the approved intermediary, and
+the return of equivalent security by the approved intermediary.
+
+ooo
+
+5. The approved intermediary shall ensure that the lending of security is not misused or disguised by the lender or
+borrower for the sale of security or for avoidance of capital gains tax.
+
+6. The approved intermediary shall render at all times high standards of service, exercise due diligence, ensure
+proper care and exercise independent professional judgment. The approved intermediary shall disclose to the
+clients its possible sources or potential areas of conflict of duties and interest and provide unbiased services.
+
+7. The approved intermediary shall maintain confidentiality of information about a lender or borrower which has
+come to possess as a consequence of dealings with it and shall not divulge the same to other clients, the press or
+any other interested party.
+
+https://www.sebi.gov.in/sebi_data/docfiles/21208_t.html
+
+3/5
+8/15/26, 12:46 AM
+
+sebi.gov.in/sebi_data/docfiles/21208_t.html
+
+8. Being fully aware of its obligations, the approved intermediary shall endeavour to ensure that true and adequate
+information is provided to the SEBI, Income-Tax Department, any other Government authority.
+
+9. An approved intermediary shall abide by all the provisions of the Act, Rules, Regulations, Guidelines,
+Resolutions, Notifications, Directions, Circular, etc. as may be issued by the Government of India and Securities and
+Exchange Board of India from time to time as may be applicable to the approved intermediary.
+
+ANNEXURE ‘A’
+FORM OF APPLICATION TO BE SUBMITTED BY THE APPROVED INTERMEDIARY UNDER THE
+
+SECURITIES LENDING SCHEME TO SEEK REGISTRATION FROM THE SECURITIES AND EXCHANGE
+BOARD OF INDIA
+
+UNDER THE SEBI ACT, 1992
+Name of the Applicant ...............:ccceceeeeeeeee eee eee sense sents eee eeeeneeneees
+Contact Person
+Telephone No.
+INSTRUCTIONS
+
+(i) This form is meant for use by the applicant for the application for the grant of registration to act as an approved
+intermediary. .
+
+i. Applicants should complete this form and submit it along with all supporting documents and the appropriate
+application and registration fee to the Securities and Exchange Board of India at its Head Office at Mumbai.
+
+(iii) It is important that this application form should be read in conjunction with the terms of the agreement entered
+into by the approved intermediary and the lender/borrower as well as the Code of Conduct for approved
+intermediaries.
+
+(iv) Applications for registration will only be considered provided it is complete in all respects.
+i. All answers must be legible.
+
+(vi) Information which needs to be supplied in more detail may be written on a
+
+separate sheet which should be attached to the application form.
+
+(vii) The application must be signed and all signatures must be original.
+
+2. Applicant’s details
+
+2.1 Name of the Applicant:
+
+a. If the applicant is already registered under any other regulations under the Act, please mention the registration
+number and the period of validity of registration and other details.
+
+b. Whether the applicant is a member of a clearing house or clearing corporation. (If yes, details of its activities).
+
+c. Net worth of the applicant __ (Paid up capital plus free reserves minus the profit and loss debit balance minus
+intangible assets)
+
+2.2 Address of registered office:
+Pin Code?..........ccceceeeeee eee eeee Telephone No. ............2.:0ceeeeee ee
+Telex No. ..........2 cece Fax NO, 00.0... cc ceeceeeeeeeeeeeee een ees
+Address for correspondence:
+Pin Code: ............:0cceceeeeeeeee Telephone No. .............::0c0eeeee
+Telex No. ...... ee Fax NO. .....e eee eae
+Address of Branch offices, if any:
+1. Organisation Structure
+1. Objectives, memorandum and articles of association to be annexed
+3.2 Date and place of incorporation:
+Place Date Month Year
+3.3 Nature (e.g. limited company - private / public, unlimited company, partnership, others)
+3.4 Particulars of all directors / partners / proprietors:
+
+Name Qualification Experience Share in applicants’ firm / company
+
+https://www.sebi.gov.in/sebi_data/docfiles/21208_t.html
+
+4/5
+8/15/26, 12:46 AM
+
+sebi.gov.in/sebi_data/docfiles/21208_t.html
+
+3.5 Particulars of key management personnel:
+Name Qualification Experience Date of Appointment Functional
+Areas
+1. Details of infrastructure such as office space, computers and others
+3.7 Names and activities of associate companies / concerns:
+Name of Address Phone Nos. Type of activity Nature of
+company/firm handled interest
+4. Business information
+4.1 Experience in dealing in securities (period to be indicated)
+4.2 Indicate type of activity
+
+1. Experience in other financial services rendered (period, area and date of commencement of activity)
+2. Business handled during the last three years:
+
+5. Client information
+5.1 List of clients
+Name Services rendered
+
+6. Financial information
+
+Please enclose three years of audited annual accounts. Where unaudited reports are being submitted, give
+
+reasons.
+
+1/We warrant that I/we have truthfully and fully answered the questions above and provided all the information
+which might reasonably be considered relevant for the purposes of my/our registration and I/We will promptly notify
+SEBI of any changes in the information during the period that my/our registration is being considered and if my/our
+
+registration is accepted, thereafter.
+
+\/We understand that misleading or attempting to mislead SEBI on any point will be deemed an act of misconduct
+
+and may render the applicant, if registered, liable to disciplinary proceedings.
+
+I/We declare that the information supplied in the application form is complete and correct.
+For and on behalf of _
+
+Director/Partner or Sole Trader Director/Partner
+
+Name in Block Letters Name in Block Letters
+
+Date Date
+
+https://www.sebi.gov.in/sebi_data/docfiles/21208_t.html
+
+5/5
